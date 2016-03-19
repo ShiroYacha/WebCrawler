@@ -48,19 +48,19 @@ namespace HeadlessWebCrawler
 
         static void Main(string[] args)
         {
-            //Setup();
-            //Reset();
+            Setup();
+            Reset();
 
 
             //CLeanData();
 
             //RunPhase0();
-            //RunPhase1();
+            RunPhase1();
             //RunPhase2();
             //while (true)
             {
                 //var p3 = RunPhase3();
-                ExportData();
+                //ExportData();
 
                 //Console.ReadKey();
                 //try
@@ -90,7 +90,7 @@ namespace HeadlessWebCrawler
             // 
             var engine = new P0Engine();
             engine.BaseUrl = @"http://www.tripadvisor.cn/Hotels-g308272-Shanghai-Hotels.html";
-            engine.MaxPage = 5;
+            engine.MaxPage = 20;
             engine.Start();
         }
 
@@ -118,6 +118,9 @@ namespace HeadlessWebCrawler
 
         static void CLeanData()
         {
+            string text = System.IO.File.ReadAllText(@"filter.txt");
+            var filterList = text.Split(new string[] { "\r\n"}, StringSplitOptions.RemoveEmptyEntries);
+
             FileStream fsi = new FileStream(@"p0.txt", FileMode.OpenOrCreate);
             var serializer = new XmlSerializer(typeof(List<HotelData>));
             var data = serializer.Deserialize(fsi) as List<HotelData>;
@@ -126,7 +129,7 @@ namespace HeadlessWebCrawler
             var cleanData = new List<HotelData>();
             foreach (var d in data)
             {
-                if (!cleanData.Any(x => x.Name == d.Name))
+                if (!cleanData.Any(x => x.Name == d.Name) && !filterList.Contains(d.Name))
                 {
                     cleanData.Add(d);
                 }
@@ -413,7 +416,7 @@ namespace HeadlessWebCrawler
                 hotelData.PrimaryCommentData = new PrimaryCommentData();
 
                 hotelData.Ranking = ExtractContent(responseBody, "排名第", "（", 0, out lastIndex);
-                hotelData.Star = ExtractContent(responseBody, "property=\"ratingValue\" content=\"", "\"", 0, out lastIndex);
+                hotelData.Star = ExtractContent(responseBody, "酒店星级：</span>", "星级", 0, out lastIndex);
                 hotelData.PrimaryCommentData.CommentCount = ExtractContent(responseBody, "tabs_header reviews_header\">", "条来自猫途鹰", 0, out lastIndex);
                 hotelData.PrimaryCommentData.ExcellentCount = GetCommentCount(responseBody, 5);
                 hotelData.PrimaryCommentData.GoodCount = GetCommentCount(responseBody, 4);
