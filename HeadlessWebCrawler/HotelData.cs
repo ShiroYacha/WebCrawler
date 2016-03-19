@@ -41,7 +41,13 @@ namespace HeadlessWebCrawler
     [Serializable]
     public class ForeignCommentData
     {
+        public string ForeignId { get; set; }
+        public string ForeignKey { get; set; }
+
+        public string Star { get; set; }
+
         public string CommentCount { get; set; }
+        public string ForeignName { get; set; }
         public string RecommendCommentCount{ get; set; }
         public string NeedToImproveCommentCount { get; set; }
         public string Score { get; set; }

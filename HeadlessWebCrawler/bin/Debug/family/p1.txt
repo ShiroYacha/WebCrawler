@@ -1,0 +1,2962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1209760-Reviews-CHAI_Living_Serviced_Apartments-Shanghai.html</PrimaryKey>
+    <Name>灿客栈</Name>
+    <Star>5.0</Star>
+    <Ranking>1</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.243292,121.48367</Location>
+    <NumberOfRooms>5</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>140</CommentCount>
+      <ExcellentCount>125</ExcellentCount>
+      <GoodCount>13</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>18</FamilyCat>
+      <CoupleCat>25</CoupleCat>
+      <SoloCat>15</SoloCat>
+      <BusinessCat>18</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1164625-Reviews-Quintet_Bed_and_Breakfast_Guest_House-Shanghai.html</PrimaryKey>
+    <Name>五重奏旅店</Name>
+    <Star>4.5</Star>
+    <Ranking>2</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.21596,121.44767</Location>
+    <NumberOfRooms>6</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>114</CommentCount>
+      <ExcellentCount>77</ExcellentCount>
+      <GoodCount>29</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>34</CoupleCat>
+      <SoloCat>12</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3354251-Reviews-Shanghai_Fish_Inn_East_Nanjing_Road-Shanghai.html</PrimaryKey>
+    <Name>子鱼居酒店南京东路店</Name>
+    <Star>4.0</Star>
+    <Ranking>3</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.239485,121.48541</Location>
+    <NumberOfRooms>57</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>58</CommentCount>
+      <ExcellentCount>20</ExcellentCount>
+      <GoodCount>31</GoodCount>
+      <NormalCount>5</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>4</FamilyCat>
+      <CoupleCat>35</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7278766-Reviews-Chichen_Hotel-Shanghai.html</PrimaryKey>
+    <Name>赤忱酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>4</Ranking>
+    <Locality>城隍庙</Locality>
+    <Location>31.217497,121.496155</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>14</CommentCount>
+      <ExcellentCount>6</ExcellentCount>
+      <GoodCount>7</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>2</FamilyCat>
+      <CoupleCat>4</CoupleCat>
+      <SoloCat>4</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1637687-Reviews-Magnolia_Bed_Breakfast_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>小木兰旅馆</Name>
+    <Star>4.5</Star>
+    <Ranking>5</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.216137,121.45225</Location>
+    <NumberOfRooms>5</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>88</CommentCount>
+      <ExcellentCount>52</ExcellentCount>
+      <GoodCount>27</GoodCount>
+      <NormalCount>5</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>6</FamilyCat>
+      <CoupleCat>36</CoupleCat>
+      <SoloCat>10</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1635844-Reviews-Caotang_Hostel-Shanghai.html</PrimaryKey>
+    <Name>朱家角草堂客栈</Name>
+    <Star>4.0</Star>
+    <Ranking>6</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.112911,121.054985</Location>
+    <NumberOfRooms>9</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>15</CommentCount>
+      <ExcellentCount>3</ExcellentCount>
+      <GoodCount>11</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>3</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7112753-Reviews-The_Train_Inn-Shanghai.html</PrimaryKey>
+    <Name>火车栈</Name>
+    <Star>4.5</Star>
+    <Ranking>7</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;
+try {
+if (window.XMLHttpRequest) {
+window.g_trackingLoadTime = {
+start: (new Date()).getTime(),
+track: function(name) {
+var duration = (new Date()).getTime() - g_trackingLoadTime.start;
+var xmlHttp = new XMLHttpRequest();
+xmlHttp.open('GET', '/ActionRecord?action=PageLoadTime&amp;subAction=' + name + '&amp;time=' + duration, false);
+xmlHttp.send(null);
+}
+};
+if (window.addEventListener) {
+document.addEventListener("DOMContentLoaded", function(event) {
+g_trackingLoadTime.track('DOMContentLoaded');
+});
+window.addEventListener('load', function(event) {
+g_trackingLoadTime.track('load');
+});
+}
+else {
+window.attachEvent('onload', function(event) {
+g_trackingLoadTime.track('DOMContentLoaded');
+g_trackingLoadTime.track('load');
+});
+}
+g_trackingLoadTime.track('start');
+}
+} catch(e) {
+delete window['g_trackingLoadTime'];
+}
+</Locality>
+    <Location>31.08372,121.5111</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>3</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8369099-Reviews-Maixinge_International_Hotel_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海麦新格国际酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>8</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8422459-Reviews-Xuhui_Yuanshitan_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>旭辉圆石滩精品酒店</Name>
+    <Star>5.0</Star>
+    <Ranking>9</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d780561-Reviews-Ling_Long_Hotel-Shanghai.html</PrimaryKey>
+    <Name>玲珑宾馆</Name>
+    <Star>4.0</Star>
+    <Ranking>10</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.21385,121.43163</Location>
+    <NumberOfRooms>15</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>39</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>25</GoodCount>
+      <NormalCount>3</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>2</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3473097-Reviews-Myway_Shuixiang_Inn-Shanghai.html</PrimaryKey>
+    <Name>myway水乡驿站 </Name>
+    <Star>5.0</Star>
+    <Ranking>11</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.10721,121.05369</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>0</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1150919-Reviews-Koala_Garden_Hostel-Shanghai.html</PrimaryKey>
+    <Name>考拉花园旅舍</Name>
+    <Star>4.0</Star>
+    <Ranking>12</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.26437,121.48163</Location>
+    <NumberOfRooms>24</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>91</CommentCount>
+      <ExcellentCount>37</ExcellentCount>
+      <GoodCount>29</GoodCount>
+      <NormalCount>17</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>2</FamilyCat>
+      <CoupleCat>16</CoupleCat>
+      <SoloCat>7</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1409687-Reviews-Dazhong_Airport_Hotel-Shanghai.html</PrimaryKey>
+    <Name>大众空港宾馆</Name>
+    <Star>3.5</Star>
+    <Ranking>13</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.150902,121.8058</Location>
+    <NumberOfRooms>1200</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>644</CommentCount>
+      <ExcellentCount>58</ExcellentCount>
+      <GoodCount>273</GoodCount>
+      <NormalCount>204</NormalCount>
+      <BadCount>66</BadCount>
+      <VeryBadCount>36</VeryBadCount>
+      <FamilyCat>36</FamilyCat>
+      <CoupleCat>42</CoupleCat>
+      <SoloCat>65</SoloCat>
+      <BusinessCat>161</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423147-Reviews-Four_Seasons_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>四季农家乐</Name>
+    <Star>5.0</Star>
+    <Ranking>14</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>4</CommentCount>
+      <ExcellentCount>3</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7320745-Reviews-Red_Mansion-Shanghai.html</PrimaryKey>
+    <Name>大公红馆</Name>
+    <Star>5.0</Star>
+    <Ranking>15</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1066610-Reviews-Old_House-Shanghai.html</PrimaryKey>
+    <Name>老时光</Name>
+    <Star>4.0</Star>
+    <Ranking>16</Ranking>
+    <Locality>Xujiahui</Locality>
+    <Location>31.09571,121.18855</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>28</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>16</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>4</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1736156-Reviews-8_Art_Hotel_on_the_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海外滩帕奇艺术酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>17</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.223114,121.45997</Location>
+    <NumberOfRooms>62</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>92</CommentCount>
+      <ExcellentCount>28</ExcellentCount>
+      <GoodCount>43</GoodCount>
+      <NormalCount>12</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>3</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>8</SoloCat>
+      <BusinessCat>9</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7178596-Reviews-Xiayizhan_Hostel_Hengbin_Road-Shanghai.html</PrimaryKey>
+    <Name>下一栈青年旅舍</Name>
+    <Star>5.0</Star>
+    <Ranking>18</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.26337,121.47912</Location>
+    <NumberOfRooms>31</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8422443-Reviews-Zhotels_Zhishang_Hotel_Shanghai_People_s_Square-Shanghai.html</PrimaryKey>
+    <Name>上海Zhotels智尚酒店人民广场店</Name>
+    <Star>4.0</Star>
+    <Ranking>19</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.226583,121.48151</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8711730-Reviews-Hongkou_Caifu_Daisi_Hotel-Shanghai.html</PrimaryKey>
+    <Name>虹口财富戴斯酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>20</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.270296,121.48766</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8422444-Reviews-Beishanghai_Hotel-Shanghai.html</PrimaryKey>
+    <Name>北上海大酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>21</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>165</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1829429-Reviews-Pretty_House_Nanjing_Road-Shanghai.html</PrimaryKey>
+    <Name>上海海上小喔南京路店</Name>
+    <Star>4.0</Star>
+    <Ranking>22</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.23785,121.48223</Location>
+    <NumberOfRooms>42</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>25</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>12</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3410326-Reviews-West_Well-Shanghai.html</PrimaryKey>
+    <Name>西井汇</Name>
+    <Star>3.5</Star>
+    <Ranking>23</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.11242,121.05446</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>5</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423125-Reviews-Fangxin_Garden_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>芳心园农家乐</Name>
+    <Star>5.0</Star>
+    <Ranking>24</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>30.821217,121.25067</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>3</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>0</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629601-Reviews-Haoshenghuo_Hotel_Shanghai_Sunqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>上海好生活旅馆孙桥路店</Name>
+    <Star>4.0</Star>
+    <Ranking>25</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.17917,121.6309</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>3</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1890075-Reviews-Find_Us_Inn-Shanghai.html</PrimaryKey>
+    <Name>Find Us Inn</Name>
+    <Star>4.5</Star>
+    <Ranking>26</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.208294,121.44233</Location>
+    <NumberOfRooms>2</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>9</CommentCount>
+      <ExcellentCount>4</ExcellentCount>
+      <GoodCount>5</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614521-Reviews-Shang_Hai_She_Shan_Lin_Sen_Hotel-Shanghai.html</PrimaryKey>
+    <Name>佘山森林宾馆</Name>
+    <Star>4.0</Star>
+    <Ranking>27</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.11457,121.24236</Location>
+    <NumberOfRooms>93</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>19</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>14</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3634564-Reviews-Jin_Rui_Hotel-Shanghai.html</PrimaryKey>
+    <Name>锦瑞宾馆 </Name>
+    <Star>5.0</Star>
+    <Ranking>28</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.193869,121.51061</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2226528-Reviews-Jinjiang_Zhonghuacun_Nongjiale_Inn-Shanghai.html</PrimaryKey>
+    <Name>锦江中华村农家乐酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>29</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1976367-Reviews-Jingyue_99_Inn_Shanghai_Nanqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>上海景悦99客栈南桥路店</Name>
+    <Star>4.0</Star>
+    <Ranking>30</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.191092,121.705055</Location>
+    <NumberOfRooms>42</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>5</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1395506-Reviews-The_Yangtze_Boutique_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海扬子精品酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>31</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.2335,121.47643</Location>
+    <NumberOfRooms>96</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>633</CommentCount>
+      <ExcellentCount>392</ExcellentCount>
+      <GoodCount>187</GoodCount>
+      <NormalCount>40</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>69</FamilyCat>
+      <CoupleCat>169</CoupleCat>
+      <SoloCat>48</SoloCat>
+      <BusinessCat>173</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1478708-Reviews-Grand_Central_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>32</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.235346,121.48127</Location>
+    <NumberOfRooms>353</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>814</CommentCount>
+      <ExcellentCount>481</ExcellentCount>
+      <GoodCount>272</GoodCount>
+      <NormalCount>36</NormalCount>
+      <BadCount>13</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>121</FamilyCat>
+      <CoupleCat>203</CoupleCat>
+      <SoloCat>37</SoloCat>
+      <BusinessCat>197</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1827810-Reviews-Courtyard_by_Marriott_Shanghai_Central-Shanghai.html</PrimaryKey>
+    <Name>浦西万怡酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>33</Ranking>
+    <Locality>Shanghai Railway Station</Locality>
+    <Location>31.243425,121.45518</Location>
+    <NumberOfRooms>456</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>584</CommentCount>
+      <ExcellentCount>291</ExcellentCount>
+      <GoodCount>231</GoodCount>
+      <NormalCount>45</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>74</FamilyCat>
+      <CoupleCat>107</CoupleCat>
+      <SoloCat>52</SoloCat>
+      <BusinessCat>184</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d678592-Reviews-Cachet_Boutique_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>凯世精品酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>34</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.229681,121.45942</Location>
+    <NumberOfRooms>45</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>110</CommentCount>
+      <ExcellentCount>55</ExcellentCount>
+      <GoodCount>44</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>4</FamilyCat>
+      <CoupleCat>13</CoupleCat>
+      <SoloCat>7</SoloCat>
+      <BusinessCat>54</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d306490-Reviews-Radisson_Blu_Plaza_Xingguo_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海兴国宾馆</Name>
+    <Star>4.5</Star>
+    <Ranking>35</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.20991,121.43454</Location>
+    <NumberOfRooms>190</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>269</CommentCount>
+      <ExcellentCount>138</ExcellentCount>
+      <GoodCount>101</GoodCount>
+      <NormalCount>20</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>17</FamilyCat>
+      <CoupleCat>30</CoupleCat>
+      <SoloCat>14</SoloCat>
+      <BusinessCat>100</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d575893-Reviews-Radisson_Blu_Hotel_Shanghai_New_World-Shanghai.html</PrimaryKey>
+    <Name>新世界丽笙大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>36</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234636,121.473</Location>
+    <NumberOfRooms>520</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,437</CommentCount>
+      <ExcellentCount>707</ExcellentCount>
+      <GoodCount>560</GoodCount>
+      <NormalCount>127</NormalCount>
+      <BadCount>22</BadCount>
+      <VeryBadCount>20</VeryBadCount>
+      <FamilyCat>150</FamilyCat>
+      <CoupleCat>227</CoupleCat>
+      <SoloCat>78</SoloCat>
+      <BusinessCat>518</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d302998-Reviews-Central_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>王宝和大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>37</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234938,121.48045</Location>
+    <NumberOfRooms>313</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>594</CommentCount>
+      <ExcellentCount>259</ExcellentCount>
+      <GoodCount>280</GoodCount>
+      <NormalCount>38</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>48</FamilyCat>
+      <CoupleCat>141</CoupleCat>
+      <SoloCat>28</SoloCat>
+      <BusinessCat>139</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301722-Reviews-Okura_Garden_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>花园饭店</Name>
+    <Star>4.5</Star>
+    <Ranking>38</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.219803,121.46036</Location>
+    <NumberOfRooms>485</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>715</CommentCount>
+      <ExcellentCount>300</ExcellentCount>
+      <GoodCount>337</GoodCount>
+      <NormalCount>61</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>7</VeryBadCount>
+      <FamilyCat>52</FamilyCat>
+      <CoupleCat>48</CoupleCat>
+      <SoloCat>65</SoloCat>
+      <BusinessCat>238</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1467903-Reviews-InterContinental_Shanghai_Expo-Shanghai.html</PrimaryKey>
+    <Name>上海世博洲际酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>39</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.199299,121.50509</Location>
+    <NumberOfRooms>400</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>591</CommentCount>
+      <ExcellentCount>344</ExcellentCount>
+      <GoodCount>171</GoodCount>
+      <NormalCount>45</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>41</FamilyCat>
+      <CoupleCat>42</CoupleCat>
+      <SoloCat>34</SoloCat>
+      <BusinessCat>257</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d653121-Reviews-Shanghai_Narada_Boutique_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海中星君亭酒店 </Name>
+    <Star>4.5</Star>
+    <Ranking>40</Ranking>
+    <Locality>城隍庙</Locality>
+    <Location>31.227774,121.48462</Location>
+    <NumberOfRooms>165</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>799</CommentCount>
+      <ExcellentCount>321</ExcellentCount>
+      <GoodCount>365</GoodCount>
+      <NormalCount>75</NormalCount>
+      <BadCount>32</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>92</FamilyCat>
+      <CoupleCat>305</CoupleCat>
+      <SoloCat>56</SoloCat>
+      <BusinessCat>118</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d578903-Reviews-Le_Royal_Meridien_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海世茂皇家艾美酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>41</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234455,121.47578</Location>
+    <NumberOfRooms>761</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>2,085</CommentCount>
+      <ExcellentCount>1,060</ExcellentCount>
+      <GoodCount>746</GoodCount>
+      <NormalCount>184</NormalCount>
+      <BadCount>54</BadCount>
+      <VeryBadCount>32</VeryBadCount>
+      <FamilyCat>157</FamilyCat>
+      <CoupleCat>260</CoupleCat>
+      <SoloCat>90</SoloCat>
+      <BusinessCat>740</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301896-Reviews-Four_Seasons_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海四季酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>42</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227345,121.4621</Location>
+    <NumberOfRooms>422</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>782</CommentCount>
+      <ExcellentCount>418</ExcellentCount>
+      <GoodCount>248</GoodCount>
+      <NormalCount>76</NormalCount>
+      <BadCount>19</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>46</FamilyCat>
+      <CoupleCat>52</CoupleCat>
+      <SoloCat>24</SoloCat>
+      <BusinessCat>248</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299749-Reviews-Renaissance_Shanghai_Yangtze_Hotel-Shanghai.html</PrimaryKey>
+    <Name>扬子江万丽大酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>43</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.202818,121.4063</Location>
+    <NumberOfRooms>542</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>504</CommentCount>
+      <ExcellentCount>167</ExcellentCount>
+      <GoodCount>250</GoodCount>
+      <NormalCount>66</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>13</FamilyCat>
+      <CoupleCat>32</CoupleCat>
+      <SoloCat>34</SoloCat>
+      <BusinessCat>223</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1021906-Reviews-Swissotel_Grand_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海宏安瑞士大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>44</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.224709,121.447</Location>
+    <NumberOfRooms>467</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>900</CommentCount>
+      <ExcellentCount>416</ExcellentCount>
+      <GoodCount>353</GoodCount>
+      <NormalCount>87</NormalCount>
+      <BadCount>22</BadCount>
+      <VeryBadCount>16</VeryBadCount>
+      <FamilyCat>62</FamilyCat>
+      <CoupleCat>87</CoupleCat>
+      <SoloCat>51</SoloCat>
+      <BusinessCat>433</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4925900-Reviews-Pullman_Shanghai_South-Shanghai.html</PrimaryKey>
+    <Name>上海中星铂尔曼大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>45</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.15989,121.43007</Location>
+    <NumberOfRooms>338</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>116</CommentCount>
+      <ExcellentCount>60</ExcellentCount>
+      <GoodCount>42</GoodCount>
+      <NormalCount>11</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>8</FamilyCat>
+      <CoupleCat>11</CoupleCat>
+      <SoloCat>8</SoloCat>
+      <BusinessCat>67</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301769-Reviews-The_Hongta_Hotel_A_Luxury_Collection_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海红塔豪华精选酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>46</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.22391,121.528015</Location>
+    <NumberOfRooms>328</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>560</CommentCount>
+      <ExcellentCount>287</ExcellentCount>
+      <GoodCount>191</GoodCount>
+      <NormalCount>71</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>29</FamilyCat>
+      <CoupleCat>41</CoupleCat>
+      <SoloCat>31</SoloCat>
+      <BusinessCat>201</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d657874-Reviews-Renaissance_Shanghai_Yu_Garden_Hotel-Shanghai.html</PrimaryKey>
+    <Name>豫园万丽酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>47</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.2275,121.48807</Location>
+    <NumberOfRooms>341</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>930</CommentCount>
+      <ExcellentCount>444</ExcellentCount>
+      <GoodCount>356</GoodCount>
+      <NormalCount>93</NormalCount>
+      <BadCount>19</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>120</FamilyCat>
+      <CoupleCat>184</CoupleCat>
+      <SoloCat>55</SoloCat>
+      <BusinessCat>242</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3446313-Reviews-Renaissance_Shanghai_Caohejing_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海漕河泾万丽酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>48</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.165379,121.39692</Location>
+    <NumberOfRooms>373</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>151</CommentCount>
+      <ExcellentCount>80</ExcellentCount>
+      <GoodCount>57</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>8</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>111</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6904825-Reviews-Jinjiang_Metropolo_Hotel_Classiq_Shanghai_Off_Bund-Shanghai.html</PrimaryKey>
+    <Name>锦江都城外滩经典酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>49</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.23888,121.48808</Location>
+    <NumberOfRooms>109</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>61</CommentCount>
+      <ExcellentCount>36</ExcellentCount>
+      <GoodCount>19</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>7</FamilyCat>
+      <CoupleCat>22</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>14</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d677593-Reviews-Renaissance_Shanghai_Zhongshan_Park_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海龙之梦万丽酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>50</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.218967,121.41635</Location>
+    <NumberOfRooms>684</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>634</CommentCount>
+      <ExcellentCount>261</ExcellentCount>
+      <GoodCount>299</GoodCount>
+      <NormalCount>51</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>8</VeryBadCount>
+      <FamilyCat>29</FamilyCat>
+      <CoupleCat>40</CoupleCat>
+      <SoloCat>38</SoloCat>
+      <BusinessCat>244</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299595-Reviews-DoubleTree_by_Hilton_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海东锦江希尔顿逸林酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>51</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.210901,121.53415</Location>
+    <NumberOfRooms>850</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>861</CommentCount>
+      <ExcellentCount>345</ExcellentCount>
+      <GoodCount>340</GoodCount>
+      <NormalCount>121</NormalCount>
+      <BadCount>30</BadCount>
+      <VeryBadCount>19</VeryBadCount>
+      <FamilyCat>33</FamilyCat>
+      <CoupleCat>45</CoupleCat>
+      <SoloCat>38</SoloCat>
+      <BusinessCat>427</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1878912-Reviews-Sheraton_Shanghai_Hongkou_Hotel-Shanghai.html</PrimaryKey>
+    <Name>虹口喜来登酒店 </Name>
+    <Star>4.5</Star>
+    <Ranking>52</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.25771,121.48782</Location>
+    <NumberOfRooms>471</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>695</CommentCount>
+      <ExcellentCount>403</ExcellentCount>
+      <GoodCount>209</GoodCount>
+      <NormalCount>54</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>67</FamilyCat>
+      <CoupleCat>106</CoupleCat>
+      <SoloCat>50</SoloCat>
+      <BusinessCat>273</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d307504-Reviews-InterContinental_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海锦江汤臣洲际大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>53</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.229555,121.52168</Location>
+    <NumberOfRooms>398</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>982</CommentCount>
+      <ExcellentCount>451</ExcellentCount>
+      <GoodCount>395</GoodCount>
+      <NormalCount>86</NormalCount>
+      <BadCount>35</BadCount>
+      <VeryBadCount>13</VeryBadCount>
+      <FamilyCat>65</FamilyCat>
+      <CoupleCat>56</CoupleCat>
+      <SoloCat>56</SoloCat>
+      <BusinessCat>405</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2512384-Reviews-Crowne_Plaza_Shanghai_Xiayang_Lake_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海夏阳湖皇冠假日酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>54</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.151382,121.13811</Location>
+    <NumberOfRooms>313</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>63</CommentCount>
+      <ExcellentCount>29</ExcellentCount>
+      <GoodCount>23</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>7</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>33</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d300597-Reviews-Hilton_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海希尔顿酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>55</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.21949,121.44536</Location>
+    <NumberOfRooms>714</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,929</CommentCount>
+      <ExcellentCount>714</ExcellentCount>
+      <GoodCount>887</GoodCount>
+      <NormalCount>230</NormalCount>
+      <BadCount>71</BadCount>
+      <VeryBadCount>27</VeryBadCount>
+      <FamilyCat>102</FamilyCat>
+      <CoupleCat>135</CoupleCat>
+      <SoloCat>101</SoloCat>
+      <BusinessCat>717</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1119070-Reviews-Sofitel_Shanghai_Sheshan_Oriental-Shanghai.html</PrimaryKey>
+    <Name>上海东方佘山索菲特大酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>56</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.113935,121.2236</Location>
+    <NumberOfRooms>368</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>484</CommentCount>
+      <ExcellentCount>237</ExcellentCount>
+      <GoodCount>164</GoodCount>
+      <NormalCount>43</NormalCount>
+      <BadCount>16</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>81</FamilyCat>
+      <CoupleCat>46</CoupleCat>
+      <SoloCat>10</SoloCat>
+      <BusinessCat>56</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d302253-Reviews-The_Portman_Ritz_Carlton_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>波特曼丽思卡尔顿酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>57</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227106,121.45189</Location>
+    <NumberOfRooms>610</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,104</CommentCount>
+      <ExcellentCount>519</ExcellentCount>
+      <GoodCount>387</GoodCount>
+      <NormalCount>136</NormalCount>
+      <BadCount>36</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>70</FamilyCat>
+      <CoupleCat>123</CoupleCat>
+      <SoloCat>29</SoloCat>
+      <BusinessCat>364</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299549-Reviews-Sofitel_Shanghai_Hyland-Shanghai.html</PrimaryKey>
+    <Name>索菲特海仑宾馆</Name>
+    <Star>4.0</Star>
+    <Ranking>58</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.235546,121.4808</Location>
+    <NumberOfRooms>383</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>819</CommentCount>
+      <ExcellentCount>338</ExcellentCount>
+      <GoodCount>338</GoodCount>
+      <NormalCount>95</NormalCount>
+      <BadCount>28</BadCount>
+      <VeryBadCount>18</VeryBadCount>
+      <FamilyCat>81</FamilyCat>
+      <CoupleCat>166</CoupleCat>
+      <SoloCat>47</SoloCat>
+      <BusinessCat>312</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1852262-Reviews-Hilton_Shanghai_Hongqiao-Shanghai.html</PrimaryKey>
+    <Name>上海虹桥元一希尔顿酒店</Name>
+    <Star>4.5</Star>
+    <Ranking>59</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.187359,121.39447</Location>
+    <NumberOfRooms>662</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>657</CommentCount>
+      <ExcellentCount>305</ExcellentCount>
+      <GoodCount>259</GoodCount>
+      <NormalCount>65</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>33</FamilyCat>
+      <CoupleCat>31</CoupleCat>
+      <SoloCat>25</SoloCat>
+      <BusinessCat>450</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1235768-Reviews-Courtyard_by_Marriott_Shanghai_Xujiahui-Shanghai.html</PrimaryKey>
+    <Name>西藏大厦万怡酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>60</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.192196,121.43462</Location>
+    <NumberOfRooms>364</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>334</CommentCount>
+      <ExcellentCount>133</ExcellentCount>
+      <GoodCount>158</GoodCount>
+      <NormalCount>28</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>12</FamilyCat>
+      <CoupleCat>15</CoupleCat>
+      <SoloCat>14</SoloCat>
+      <BusinessCat>168</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3651087-Reviews-Wenfeng_Hostel-Shanghai.html</PrimaryKey>
+    <Name>上海文丰宾馆</Name>
+    <Star>4.0</Star>
+    <Ranking>31</Ranking>
+    <Locality>Waigaoqiao</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634164-Reviews-Yingdu_Hotel-Shanghai.html</PrimaryKey>
+    <Name>鹰都宾馆</Name>
+    <Star>5.0</Star>
+    <Ranking>32</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.17194,121.33876</Location>
+    <NumberOfRooms>35</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2388614-Reviews-Hanting_Hi_Inn_Shanghai_Jing_an_Temple-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭海友客栈静安寺店</Name>
+    <Star>3.0</Star>
+    <Ranking>33</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227127,121.43534</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>9</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>3</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1415247-Reviews-Uma_Youth_Hostel-Shanghai.html</PrimaryKey>
+    <Name>Uma青年旅舍</Name>
+    <Star>4.5</Star>
+    <Ranking>34</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.106941,121.04815</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1415245-Reviews-Sifang_Hostel-Shanghai.html</PrimaryKey>
+    <Name>四方客栈</Name>
+    <Star>4.5</Star>
+    <Ranking>35</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.11006,121.05637</Location>
+    <NumberOfRooms>6</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>3</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634123-Reviews-Simu_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>思慕精品酒店</Name>
+    <Star>4.0</Star>
+    <Ranking>36</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.25694,121.51191</Location>
+    <NumberOfRooms>35</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2078390-Reviews-Sunflower_Inn-Shanghai.html</PrimaryKey>
+    <Name>上海向日葵驿栈</Name>
+    <Star>4.0</Star>
+    <Ranking>37</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.22587,121.523544</Location>
+    <NumberOfRooms>10</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>4</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>4</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634037-Reviews-Junyue_Hotel-Shanghai.html</PrimaryKey>
+    <Name>君悦旅馆</Name>
+    <Star>4.5</Star>
+    <Ranking>38</Ranking>
+    <Locality>Caoyang / Zhenru</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>4</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402350-Reviews-Friends_Hostel-Shanghai.html</PrimaryKey>
+    <Name>朋友旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>39</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.229465,121.46798</Location>
+    <NumberOfRooms>20</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>7</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>3</GoodCount>
+      <NormalCount>3</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1895311-Reviews-Shopkeeper_Inn-Shanghai.html</PrimaryKey>
+    <Name>掌柜的客栈</Name>
+    <Star>4.0</Star>
+    <Ranking>40</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.24238,121.48517</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>4</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>4</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407623-Reviews-Family_Holiday_Hotel_Shanghai_Xinzhuang-Shanghai.html</PrimaryKey>
+    <Name>上海假日家庭酒店莘庄店</Name>
+    <Star>4.0</Star>
+    <Ranking>41</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.10939,121.38961</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>8</CommentCount>
+      <ExcellentCount>2</ExcellentCount>
+      <GoodCount>4</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1567526-Reviews-Red_Maple_Hotel-Shanghai.html</PrimaryKey>
+    <Name>红叶旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>42</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>20</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>6</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>6</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1572895-Reviews-Dongnuan_Xialiang_Hotel_Caojiadu-Shanghai.html</PrimaryKey>
+    <Name>冬暖夏凉旅店曹家渡店</Name>
+    <Star>4.0</Star>
+    <Ranking>43</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>4</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1459620-Reviews-Fengmei_Hostel-Shanghai.html</PrimaryKey>
+    <Name>丰美旅店</Name>
+    <Star>3.5</Star>
+    <Ranking>44</Ranking>
+    <Locality>Pengpu</Locality>
+    <Location>31.31493,121.38454</Location>
+    <NumberOfRooms>120</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>13</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>7</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629668-Reviews-Chichengshan_Hotel-Shanghai.html</PrimaryKey>
+    <Name>赤城山旅馆</Name>
+    <Star>4.5</Star>
+    <Ranking>45</Ranking>
+    <Locality>Jiangwan / Wujiaochang</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1829439-Reviews-Fanpu_Farmer_s_Dish-Shanghai.html</PrimaryKey>
+    <Name>返朴农家乐</Name>
+    <Star>4.0</Star>
+    <Ranking>46</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.017954,121.862854</Location>
+    <NumberOfRooms>9</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423169-Reviews-Binhai_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>滨海农家乐</Name>
+    <Star>4.0</Star>
+    <Ranking>47</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.01776,121.86073</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2082416-Reviews-Yingdu_Holiday_Hotel-Shanghai.html</PrimaryKey>
+    <Name>影都假日旅馆</Name>
+    <Star>3.5</Star>
+    <Ranking>48</Ranking>
+    <Locality>Life Hub DANING</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634169-Reviews-Hongyuan_Holiday_Inn-Shanghai.html</PrimaryKey>
+    <Name>宏苑假日旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>49</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305985-Reviews-Jitai_Boutique_Chain_Hotel_Shanghai_Dapu_Road-Shanghai.html</PrimaryKey>
+    <Name>上海吉泰精品连锁酒店打浦路店</Name>
+    <Star>3.0</Star>
+    <Ranking>50</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.20267,121.47071</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629673-Reviews-Huishun_Hotel-Shanghai.html</PrimaryKey>
+    <Name>汇顺旅馆</Name>
+    <Star>4.5</Star>
+    <Ranking>51</Ranking>
+    <Locality>The North Bund</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1572894-Reviews-Dongda_Guest_House-Shanghai.html</PrimaryKey>
+    <Name>东大招待所</Name>
+    <Star>4.0</Star>
+    <Ranking>52</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6424545-Reviews-99_Inn_Shanghai_Zhenhua_Road-Shanghai.html</PrimaryKey>
+    <Name>上海99旅馆连锁真华路店</Name>
+    <Star>3.0</Star>
+    <Ranking>53</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1725795-Reviews-Chayuan_Hostel-Shanghai.html</PrimaryKey>
+    <Name>茶缘旅馆</Name>
+    <Star>3.5</Star>
+    <Ranking>54</Ranking>
+    <Locality>Zhangjiang</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>7</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>3</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1524578-Reviews-Hongxin_Hostel-Shanghai.html</PrimaryKey>
+    <Name>宏馨旅馆</Name>
+    <Star>4.5</Star>
+    <Ranking>55</Ranking>
+    <Locality>Everbright Convention and Exhibition Center</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2408455-Reviews-Jiuxing_Hostel_Changning-Shanghai.html</PrimaryKey>
+    <Name>九星旅馆长宁店</Name>
+    <Star>4.0</Star>
+    <Ranking>56</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1415254-Reviews-East_Alley_Hostel-Shanghai.html</PrimaryKey>
+    <Name>东巷旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>58</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.112907,121.054985</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634036-Reviews-Yayi_Hotel_Aomen_Road-Shanghai.html</PrimaryKey>
+    <Name>雅益宾馆</Name>
+    <Star>4.0</Star>
+    <Ranking>57</Ranking>
+    <Locality>Changshou Road</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1519411-Reviews-Yongchun_Hostel-Shanghai.html</PrimaryKey>
+    <Name>永春旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>59</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>2</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3630404-Reviews-Shi_Jia_Business_Hotel-Shanghai.html</PrimaryKey>
+    <Name>世佳商务宾馆 </Name>
+    <Star>3.0</Star>
+    <Ranking>60</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402349-Reviews-Hao_Shenghuo_Hostel_Shanghai_Zhangjiang-Shanghai.html</PrimaryKey>
+    <Name>上海好生活旅店张江店</Name>
+    <Star>3.5</Star>
+    <Ranking>61</Ranking>
+    <Locality>Zhangjiang</Locality>
+    <Location>31.202496,121.616234</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>3</CommentCount>
+      <ExcellentCount>1</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629643-Reviews-Lvdao_Inn-Shanghai.html</PrimaryKey>
+    <Name>绿岛旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>62</Ranking>
+    <Locality>Xujiahui</Locality>
+    <Location>31.193327,121.44666</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629574-Reviews-Hangdao_Holiday_Inn-Shanghai.html</PrimaryKey>
+    <Name>杭岛假日旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>63</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1865477-Reviews-Yalan_Hostel-Shanghai.html</PrimaryKey>
+    <Name>雅兰旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>64</Ranking>
+    <Locality>The North Bund</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>10</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1415249-Reviews-No_62_Hostel-Shanghai.html</PrimaryKey>
+    <Name>62号客栈</Name>
+    <Star>4.0</Star>
+    <Ranking>65</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.221563,121.46631</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3745821-Reviews-Lehaojia_Holiday_Hostel-Shanghai.html</PrimaryKey>
+    <Name>上海乐好家假日宾馆</Name>
+    <Star>3.0</Star>
+    <Ranking>66</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1519414-Reviews-Zhongsheng_Hostel-Shanghai.html</PrimaryKey>
+    <Name>众盛旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>67</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>19</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1974507-Reviews-Jingyuan_Hostel-Shanghai.html</PrimaryKey>
+    <Name>景元旅馆</Name>
+    <Star>5.0</Star>
+    <Ranking>68</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1459626-Reviews-Yanyangtian_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艳阳天旅馆</Name>
+    <Star>4.0</Star>
+    <Ranking>69</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423121-Reviews-Happy_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>开心农家乐</Name>
+    <Star>4.0</Star>
+    <Ranking>70</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407624-Reviews-Family_Holiday_Hotel_Shanghai_Sijing-Shanghai.html</PrimaryKey>
+    <Name>上海假日家庭酒店泗泾店</Name>
+    <Star>3.5</Star>
+    <Ranking>71</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.115698,121.27636</Location>
+    <NumberOfRooms>75</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>2</CommentCount>
+      <ExcellentCount>0</ExcellentCount>
+      <GoodCount>1</GoodCount>
+      <NormalCount>1</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1732315-Reviews-Lujia_Inn-Shanghai.html</PrimaryKey>
+    <Name>路家客栈</Name>
+    <Star>4.0</Star>
+    <Ranking>72</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>1 </CommentCount>
+      <ExcellentCount />
+      <GoodCount />
+      <NormalCount />
+      <BadCount />
+      <VeryBadCount />
+      <FamilyCat />
+      <CoupleCat />
+      <SoloCat />
+      <BusinessCat />
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629728-Reviews-Baiye_Hotel-Shanghai.html</PrimaryKey>
+    <Name>百叶旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629588-Reviews-Haojia_Hotel-Shanghai.html</PrimaryKey>
+    <Name>好佳旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629591-Reviews-Fengdu_Zhixing_Hotel-Shanghai.html</PrimaryKey>
+    <Name>凤都之星旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2393487-Reviews-Xingtai_118_Hostel-Shanghai.html</PrimaryKey>
+    <Name>星泰118旅店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634137-Reviews-Wangkai_Hostel-Shanghai.html</PrimaryKey>
+    <Name>王开旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629681-Reviews-Furu_Hotel-Shanghai.html</PrimaryKey>
+    <Name>福如旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2082443-Reviews-Kangcun_Zhixing_Hostel-Shanghai.html</PrimaryKey>
+    <Name>康村之星旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634101-Reviews-Baojiang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>宝江宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2061637-Reviews-Weiyi_Hostel-Shanghai.html</PrimaryKey>
+    <Name>唯伊旅店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2397257-Reviews-Ahua_Hostel-Shanghai.html</PrimaryKey>
+    <Name>阿华旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629702-Reviews-Qiushuitang_Inn-Shanghai.html</PrimaryKey>
+    <Name>秋水塘旅店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1946437-Reviews-Lingdianyi_Boutique_Hotel_Shanghai_Yangpu-Shanghai.html</PrimaryKey>
+    <Name>上海零点依精致酒店杨浦店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2271132-Reviews-Bole_Hostel-Shanghai.html</PrimaryKey>
+    <Name>伯乐旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1959242-Reviews-Riyue_Zhixing_Hostel_Shanghai_Zhoupu-Shanghai.html</PrimaryKey>
+    <Name>上海日月之星旅馆周浦店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1519398-Reviews-Fengle_Hostel-Shanghai.html</PrimaryKey>
+    <Name>丰乐旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1519407-Reviews-Weideng_Guest_House-Shanghai.html</PrimaryKey>
+    <Name>威登旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1415250-Reviews-Tonglin_Hostel-Shanghai.html</PrimaryKey>
+    <Name>通林旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402339-Reviews-Aishang_Hostel_Shanghai_Guoquan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海爱尚连锁旅店国权路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2402308-Reviews-Shushun_Hostel-Shanghai.html</PrimaryKey>
+    <Name>舒顺旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634134-Reviews-Kualong_Holiday_Inn-Shanghai.html</PrimaryKey>
+    <Name>跨龙假日旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1567518-Reviews-Home_Inn_Shanghai_Zhongshan_Park_Subway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海如家中山公园地铁站店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629734-Reviews-Dingzhen_Inn_Zaoyang_Road-Shanghai.html</PrimaryKey>
+    <Name>鼎珍旅店枣阳路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629645-Reviews-Poyang_Inn-Shanghai.html</PrimaryKey>
+    <Name>鄱阳旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1676394-Reviews-1_2_3_Guest_House-Shanghai.html</PrimaryKey>
+    <Name>壹贰叁</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1976368-Reviews-Jingyue_99_Inn_Shanghai_Shipi_Road-Shanghai.html</PrimaryKey>
+    <Name>景悦99客栈石皮路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4199000-Reviews-Zhongye_Hostel-Shanghai.html</PrimaryKey>
+    <Name>忠业旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423141-Reviews-Shuyuan_Family_Farmhouse_Lingang_New_Town-Shanghai.html</PrimaryKey>
+    <Name>临港新城书院人家农家乐</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4090054-Reviews-Jinpeng_Inn-Shanghai.html</PrimaryKey>
+    <Name>锦蓬旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305977-Reviews-Haoyun_Hotel-Shanghai.html</PrimaryKey>
+    <Name>豪运大酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305967-Reviews-Tianyuhe_Hotel-Shanghai.html</PrimaryKey>
+    <Name>天誉合酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8761951-Reviews-F1_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>F1精品酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8857435-Reviews-Mhouse-Shanghai.html</PrimaryKey>
+    <Name>Mhouse</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d9568845-Reviews-Smart_Youth_Hostel-Shanghai.html</PrimaryKey>
+    <Name>SMART青年旅舍</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7397475-Reviews-Aiba_Fashion_Motel-Shanghai.html</PrimaryKey>
+    <Name>艾八时尚酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305965-Reviews-Aijiu_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾久宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601616-Reviews-Ainuo_Fashion_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾诺时尚宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7373200-Reviews-Aishang_90_Chain_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾尚90连锁旅店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3634566-Reviews-Ai_Xiang_Fashion_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾享时尚酒店 </Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7397474-Reviews-Aixin_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾欣精品酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d9568944-Reviews-Aiyue_Hotel-Shanghai.html</PrimaryKey>
+    <Name>艾悦酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7111241-Reviews-Aichao_Hostel-Shanghai.html</PrimaryKey>
+    <Name>爱巢民宿客栈</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634162-Reviews-Aiming_Hotel-Shanghai.html</PrimaryKey>
+    <Name>爱明宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305982-Reviews-Aiqindao_Theme_Hotel-Shanghai.html</PrimaryKey>
+    <Name>爱琴岛主题宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7305988-Reviews-Antai_Fashion_Hotel-Shanghai.html</PrimaryKey>
+    <Name>安态时尚宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4443538-Reviews-Batiya_Express_Inn-Shanghai.html</PrimaryKey>
+    <Name>芭堤雅快捷旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8517536-Reviews-Batiya_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>芭提雅精品酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601489-Reviews-Bafang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>八方宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8532435-Reviews-Baifa_Hotel-Shanghai.html</PrimaryKey>
+    <Name>百发快捷宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6517606-Reviews-Baochenglu_Hostel-Shanghai.html</PrimaryKey>
+    <Name>宝成路旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601559-Reviews-Baolv_Hotel-Shanghai.html</PrimaryKey>
+    <Name>宝绿宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7397480-Reviews-Baotai_Business_Hotel-Shanghai.html</PrimaryKey>
+    <Name>宝泰商务酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601528-Reviews-Beiwu_Hotel-Shanghai.html</PrimaryKey>
+    <Name>北吴宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634076-Reviews-Beiying_Hotel-Shanghai.html</PrimaryKey>
+    <Name>北影旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634115-Reviews-Beigang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>贝港旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629610-Reviews-Bijiamei_Hostel-Shanghai.html</PrimaryKey>
+    <Name>比家美旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8654394-Reviews-Bihai_Jinsha_Fengjiaju-Shanghai.html</PrimaryKey>
+    <Name>碧海金沙冯家居</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601488-Reviews-Bifeng_Hotel-Shanghai.html</PrimaryKey>
+    <Name>避风宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601501-Reviews-98_Hotel-Shanghai.html</PrimaryKey>
+    <Name>98宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601432-Reviews-Binjia_Hotel-Shanghai.html</PrimaryKey>
+    <Name>宾佳客房</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629644-Reviews-Boda_Inn-Shanghai.html</PrimaryKey>
+    <Name>博达旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7397478-Reviews-Bojiang_Boutique_Hotel-Shanghai.html</PrimaryKey>
+    <Name>博江精品酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601563-Reviews-Boyuan_Hotel-Shanghai.html</PrimaryKey>
+    <Name>博苑宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601549-Reviews-Caijie_Hotel-Shanghai.html</PrimaryKey>
+    <Name>采杰宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629640-Reviews-Cangqiao_Inn-Shanghai.html</PrimaryKey>
+    <Name>仓桥旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601502-Reviews-Caojiang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>曹江宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3823667-Reviews-Chayue_Hostel-Shanghai.html</PrimaryKey>
+    <Name>茶悦旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601448-Reviews-Changwei_Leisure_Guest_Room_Hotel-Shanghai.html</PrimaryKey>
+    <Name>昌蔚休闲客房部</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634059-Reviews-Changqing_Hotel-Shanghai.html</PrimaryKey>
+    <Name>长清宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601617-Reviews-Chengshang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>城尚宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3634524-Reviews-Cheng_Cheng_Hotel-Shanghai.html</PrimaryKey>
+    <Name>成诚宾馆 </Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d7601582-Reviews-Chenglong_Hotel-Shanghai.html</PrimaryKey>
+    <Name>成隆宾馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1629649-Reviews-Chengxin_Hotel-Shanghai.html</PrimaryKey>
+    <Name>诚信旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6730463-Reviews-Chigao_Holiday_Hostel-Shanghai.html</PrimaryKey>
+    <Name>持高假日旅店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1634113-Reviews-Chundong_Hostel-Shanghai.html</PrimaryKey>
+    <Name>春冬旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6517530-Reviews-Dafang_Hostel-Shanghai.html</PrimaryKey>
+    <Name>大方旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4198458-Reviews-Dayu_98_Chain_Hostel-Shanghai.html</PrimaryKey>
+    <Name>大宇98连锁旅馆</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d8725189-Reviews-Damuzhi_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>大指头农庄</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1423124-Reviews-Dazhihe_Farmhouse-Shanghai.html</PrimaryKey>
+    <Name>大治河农家乐</Name>
+  </HotelData>
+</ArrayOfHotelData>

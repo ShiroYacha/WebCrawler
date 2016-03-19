@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfForeignCommentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ForeignCommentData>
+    <ForeignId>http://hotels.ctrip.com/hotel/dianping/1487417.html</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1487417.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+    <Star>hotel_halfdiamond02</Star>
+    <CommentCount>721</CommentCount>
+    <ForeignName>汉庭酒店（上海南京东路步行街店）</ForeignName>
+    <RecommendCommentCount>652</RecommendCommentCount>
+    <NeedToImproveCommentCount>69</NeedToImproveCommentCount>
+    <OpenYear>2010</OpenYear>
+    <RoomCount>88</RoomCount>
+  </ForeignCommentData>
+</ArrayOfForeignCommentData>

@@ -1,0 +1,3717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3831513-Reviews-Mandarin_Oriental_Pudong_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海浦东文华东方酒店</Name>
+    <Star />
+    <Ranking>1</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.24396,121.50627</Location>
+    <NumberOfRooms>362</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>727</CommentCount>
+      <ExcellentCount>630</ExcellentCount>
+      <GoodCount>77</GoodCount>
+      <NormalCount>13</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>94</FamilyCat>
+      <CoupleCat>172</CoupleCat>
+      <SoloCat>44</SoloCat>
+      <BusinessCat>274</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1800802-Reviews-Waldorf_Astoria_Shanghai_on_the_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海外滩华尔道夫酒店</Name>
+    <Star />
+    <Ranking>2</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.233694,121.48982</Location>
+    <NumberOfRooms>260</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,072</CommentCount>
+      <ExcellentCount>885</ExcellentCount>
+      <GoodCount>114</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>12</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>160</FamilyCat>
+      <CoupleCat>306</CoupleCat>
+      <SoloCat>54</SoloCat>
+      <BusinessCat>290</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1945926-Reviews-The_Langham_Shanghai_Xintiandi-Shanghai.html</PrimaryKey>
+    <Name>上海新天地朗廷酒店</Name>
+    <Star />
+    <Ranking>3</Ranking>
+    <Locality>新天地</Locality>
+    <Location>31.221394,121.47442</Location>
+    <NumberOfRooms>357</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>754</CommentCount>
+      <ExcellentCount>597</ExcellentCount>
+      <GoodCount>109</GoodCount>
+      <NormalCount>21</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>51</FamilyCat>
+      <CoupleCat>119</CoupleCat>
+      <SoloCat>36</SoloCat>
+      <BusinessCat>397</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1654265-Reviews-The_Ritz_Carlton_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海浦东丽思卡尔顿酒店</Name>
+    <Star />
+    <Ranking>4</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.236826,121.50144</Location>
+    <NumberOfRooms>285</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>799</CommentCount>
+      <ExcellentCount>610</ExcellentCount>
+      <GoodCount>138</GoodCount>
+      <NormalCount>32</NormalCount>
+      <BadCount>8</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>62</FamilyCat>
+      <CoupleCat>114</CoupleCat>
+      <SoloCat>32</SoloCat>
+      <BusinessCat>346</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1200824-Reviews-The_PuLi_Hotel_and_Spa-Shanghai.html</PrimaryKey>
+    <Name>璞麗酒店</Name>
+    <Star />
+    <Ranking>5</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.22229,121.44827</Location>
+    <NumberOfRooms>229</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,143</CommentCount>
+      <ExcellentCount>880</ExcellentCount>
+      <GoodCount>209</GoodCount>
+      <NormalCount>37</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>80</FamilyCat>
+      <CoupleCat>282</CoupleCat>
+      <SoloCat>73</SoloCat>
+      <BusinessCat>369</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d303020-Reviews-Fairmont_Peace_Hotel-Shanghai.html</PrimaryKey>
+    <Name>和平饭店</Name>
+    <Star />
+    <Ranking>6</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.239155,121.48954</Location>
+    <NumberOfRooms>270</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,321</CommentCount>
+      <ExcellentCount>1,018</ExcellentCount>
+      <GoodCount>225</GoodCount>
+      <NormalCount>37</NormalCount>
+      <BadCount>15</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>201</FamilyCat>
+      <CoupleCat>380</CoupleCat>
+      <SoloCat>80</SoloCat>
+      <BusinessCat>308</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1461776-Reviews-The_Peninsula_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海半岛酒店</Name>
+    <Star />
+    <Ranking>7</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.241257,121.48882</Location>
+    <NumberOfRooms>235</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>966</CommentCount>
+      <ExcellentCount>730</ExcellentCount>
+      <GoodCount>154</GoodCount>
+      <NormalCount>38</NormalCount>
+      <BadCount>17</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>124</FamilyCat>
+      <CoupleCat>257</CoupleCat>
+      <SoloCat>34</SoloCat>
+      <BusinessCat>165</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2722669-Reviews-Four_Seasons_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海浦东四季酒店</Name>
+    <Star />
+    <Ranking>8</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.234678,121.51013</Location>
+    <NumberOfRooms>187</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>383</CommentCount>
+      <ExcellentCount>294</ExcellentCount>
+      <GoodCount>63</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>40</FamilyCat>
+      <CoupleCat>55</CoupleCat>
+      <SoloCat>19</SoloCat>
+      <BusinessCat>194</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299747-Reviews-JW_Marriott_Hotel_Shanghai_at_Tomorrow_Square-Shanghai.html</PrimaryKey>
+    <Name>上海明天广场JW万豪酒店</Name>
+    <Star />
+    <Ranking>9</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.230711,121.46989</Location>
+    <NumberOfRooms>342</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,078</CommentCount>
+      <ExcellentCount>710</ExcellentCount>
+      <GoodCount>292</GoodCount>
+      <NormalCount>52</NormalCount>
+      <BadCount>21</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>95</FamilyCat>
+      <CoupleCat>140</CoupleCat>
+      <SoloCat>42</SoloCat>
+      <BusinessCat>404</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4089880-Reviews-Jing_An_Shangri_La_West_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海静安香格里拉大酒店</Name>
+    <Star />
+    <Ranking>10</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.222788,121.45052</Location>
+    <NumberOfRooms>508</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>472</CommentCount>
+      <ExcellentCount>355</ExcellentCount>
+      <GoodCount>74</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>8</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>18</FamilyCat>
+      <CoupleCat>84</CoupleCat>
+      <SoloCat>23</SoloCat>
+      <BusinessCat>275</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1600410-Reviews-Hotel_Indigo_Shanghai_on_the_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海外滩英迪格酒店</Name>
+    <Star />
+    <Ranking>11</Ranking>
+    <Locality>南外滩</Locality>
+    <Location>31.226208,121.5001</Location>
+    <NumberOfRooms>184</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,160</CommentCount>
+      <ExcellentCount>835</ExcellentCount>
+      <GoodCount>238</GoodCount>
+      <NormalCount>40</NormalCount>
+      <BadCount>17</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>111</FamilyCat>
+      <CoupleCat>292</CoupleCat>
+      <SoloCat>58</SoloCat>
+      <BusinessCat>377</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d302999-Reviews-Grand_Hyatt_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海金茂君悦大酒店</Name>
+    <Star />
+    <Ranking>12</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.234922,121.50587</Location>
+    <NumberOfRooms>555</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,854</CommentCount>
+      <ExcellentCount>1,092</ExcellentCount>
+      <GoodCount>583</GoodCount>
+      <NormalCount>121</NormalCount>
+      <BadCount>31</BadCount>
+      <VeryBadCount>16</VeryBadCount>
+      <FamilyCat>104</FamilyCat>
+      <CoupleCat>169</CoupleCat>
+      <SoloCat>48</SoloCat>
+      <BusinessCat>533</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2008771-Reviews-Kerry_Hotel_Pudong_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海浦东嘉里大酒店</Name>
+    <Star />
+    <Ranking>13</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.213324,121.56374</Location>
+    <NumberOfRooms>574</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>746</CommentCount>
+      <ExcellentCount>530</ExcellentCount>
+      <GoodCount>170</GoodCount>
+      <NormalCount>26</NormalCount>
+      <BadCount>8</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>74</FamilyCat>
+      <CoupleCat>30</CoupleCat>
+      <SoloCat>11</SoloCat>
+      <BusinessCat>541</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1395528-Reviews-Les_Suites_Orient_Bund_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>东方商旅</Name>
+    <Star />
+    <Ranking>14</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.231844,121.49284</Location>
+    <NumberOfRooms>168</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,172</CommentCount>
+      <ExcellentCount>865</ExcellentCount>
+      <GoodCount>236</GoodCount>
+      <NormalCount>48</NormalCount>
+      <BadCount>12</BadCount>
+      <VeryBadCount>11</VeryBadCount>
+      <FamilyCat>146</FamilyCat>
+      <CoupleCat>459</CoupleCat>
+      <SoloCat>99</SoloCat>
+      <BusinessCat>216</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1954359-Reviews-Marriott_Hotel_City_Centre-Shanghai.html</PrimaryKey>
+    <Name>上海雅居乐万豪酒店</Name>
+    <Star />
+    <Ranking>15</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.236958,121.47354</Location>
+    <NumberOfRooms>708</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>916</CommentCount>
+      <ExcellentCount>609</ExcellentCount>
+      <GoodCount>229</GoodCount>
+      <NormalCount>45</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>130</FamilyCat>
+      <CoupleCat>146</CoupleCat>
+      <SoloCat>41</SoloCat>
+      <BusinessCat>407</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2411000-Reviews-Andaz_Xintiandi_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海新天地安达仕酒店</Name>
+    <Star />
+    <Ranking>16</Ranking>
+    <Locality>新天地</Locality>
+    <Location>31.222198,121.47562</Location>
+    <NumberOfRooms>307</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>460</CommentCount>
+      <ExcellentCount>299</ExcellentCount>
+      <GoodCount>124</GoodCount>
+      <NormalCount>25</NormalCount>
+      <BadCount>8</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>41</FamilyCat>
+      <CoupleCat>61</CoupleCat>
+      <SoloCat>28</SoloCat>
+      <BusinessCat>241</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d307516-Reviews-New_World_Shanghai_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海巴黎春天新世界酒店</Name>
+    <Star />
+    <Ranking>17</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.218542,121.4213</Location>
+    <NumberOfRooms>558</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>843</CommentCount>
+      <ExcellentCount>430</ExcellentCount>
+      <GoodCount>305</GoodCount>
+      <NormalCount>80</NormalCount>
+      <BadCount>18</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>52</FamilyCat>
+      <CoupleCat>60</CoupleCat>
+      <SoloCat>61</SoloCat>
+      <BusinessCat>335</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d307540-Reviews-Pudong_Shangri_La_East_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海浦东香格里拉大酒店</Name>
+    <Star />
+    <Ranking>18</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.235987,121.50027</Location>
+    <NumberOfRooms>952</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>2,652</CommentCount>
+      <ExcellentCount>1,580</ExcellentCount>
+      <GoodCount>883</GoodCount>
+      <NormalCount>140</NormalCount>
+      <BadCount>29</BadCount>
+      <VeryBadCount>13</VeryBadCount>
+      <FamilyCat>104</FamilyCat>
+      <CoupleCat>161</CoupleCat>
+      <SoloCat>71</SoloCat>
+      <BusinessCat>782</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1158822-Reviews-Park_Hyatt_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海柏悦酒店</Name>
+    <Star />
+    <Ranking>19</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.234732,121.50764</Location>
+    <NumberOfRooms>174</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>895</CommentCount>
+      <ExcellentCount>615</ExcellentCount>
+      <GoodCount>206</GoodCount>
+      <NormalCount>42</NormalCount>
+      <BadCount>16</BadCount>
+      <VeryBadCount>11</VeryBadCount>
+      <FamilyCat>63</FamilyCat>
+      <CoupleCat>163</CoupleCat>
+      <SoloCat>66</SoloCat>
+      <BusinessCat>234</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1723019-Reviews-JW_Marriott_Hotel_Shanghai_Changfeng_Park-Shanghai.html</PrimaryKey>
+    <Name>上海新发展亚太JW万豪酒店</Name>
+    <Star />
+    <Ranking>20</Ranking>
+    <Locality>Changfeng Park</Locality>
+    <Location>31.221571,121.39619</Location>
+    <NumberOfRooms>501</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>423</CommentCount>
+      <ExcellentCount>252</ExcellentCount>
+      <GoodCount>134</GoodCount>
+      <NormalCount>28</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>24</FamilyCat>
+      <CoupleCat>26</CoupleCat>
+      <SoloCat>17</SoloCat>
+      <BusinessCat>237</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1956740-Reviews-Grand_Pujian_Residence-Shanghai.html</PrimaryKey>
+    <Name>浦建雅居</Name>
+    <Star />
+    <Ranking>21</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.208279,121.53102</Location>
+    <NumberOfRooms>116</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>24</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>3</GoodCount>
+      <NormalCount>0</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>8</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301757-Reviews-The_Westin_Bund_Center_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海威斯汀大饭店</Name>
+    <Star />
+    <Ranking>22</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.232145,121.48652</Location>
+    <NumberOfRooms>570</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,653</CommentCount>
+      <ExcellentCount>885</ExcellentCount>
+      <GoodCount>595</GoodCount>
+      <NormalCount>124</NormalCount>
+      <BadCount>32</BadCount>
+      <VeryBadCount>17</VeryBadCount>
+      <FamilyCat>130</FamilyCat>
+      <CoupleCat>279</CoupleCat>
+      <SoloCat>64</SoloCat>
+      <BusinessCat>471</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1468085-Reviews-InterContinental_Shanghai_Puxi-Shanghai.html</PrimaryKey>
+    <Name>上海浦西洲际酒店</Name>
+    <Star />
+    <Ranking>23</Ranking>
+    <Locality>Shanghai Railway Station</Locality>
+    <Location>31.245005,121.45409</Location>
+    <NumberOfRooms>533</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>612</CommentCount>
+      <ExcellentCount>325</ExcellentCount>
+      <GoodCount>219</GoodCount>
+      <NormalCount>39</NormalCount>
+      <BadCount>17</BadCount>
+      <VeryBadCount>7</VeryBadCount>
+      <FamilyCat>40</FamilyCat>
+      <CoupleCat>66</CoupleCat>
+      <SoloCat>28</SoloCat>
+      <BusinessCat>201</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d309509-Reviews-InterContinental_Shanghai_Ruijin-Shanghai.html</PrimaryKey>
+    <Name>瑞金洲际酒店</Name>
+    <Star />
+    <Ranking>24</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.21292,121.46373</Location>
+    <NumberOfRooms>238</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>428</CommentCount>
+      <ExcellentCount>239</ExcellentCount>
+      <GoodCount>124</GoodCount>
+      <NormalCount>32</NormalCount>
+      <BadCount>12</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>41</FamilyCat>
+      <CoupleCat>66</CoupleCat>
+      <SoloCat>25</SoloCat>
+      <BusinessCat>124</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3746712-Reviews-Shanghai_Marriott_Hotel_Pudong_East-Shanghai.html</PrimaryKey>
+    <Name>上海金桥红枫万豪酒店</Name>
+    <Star />
+    <Ranking>25</Ranking>
+    <Locality>Jinqiao</Locality>
+    <Location>31.243675,121.59115</Location>
+    <NumberOfRooms>323</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>154</CommentCount>
+      <ExcellentCount>85</ExcellentCount>
+      <GoodCount>55</GoodCount>
+      <NormalCount>9</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>6</FamilyCat>
+      <CoupleCat>4</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>121</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1626894-Reviews-Jumeirah_Himalayas_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>卓美亚喜玛拉雅酒店</Name>
+    <Star />
+    <Ranking>26</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.210491,121.56175</Location>
+    <NumberOfRooms>393</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>450</CommentCount>
+      <ExcellentCount>290</ExcellentCount>
+      <GoodCount>116</GoodCount>
+      <NormalCount>29</NormalCount>
+      <BadCount>8</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>27</FamilyCat>
+      <CoupleCat>25</CoupleCat>
+      <SoloCat>19</SoloCat>
+      <BusinessCat>298</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1175491-Reviews-Grand_Kempinski_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海凯宾斯基大酒店</Name>
+    <Star />
+    <Ranking>27</Ranking>
+    <Locality>陆家嘴</Locality>
+    <Location>31.242588,121.50414</Location>
+    <NumberOfRooms>686</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>659</CommentCount>
+      <ExcellentCount>379</ExcellentCount>
+      <GoodCount>198</GoodCount>
+      <NormalCount>57</NormalCount>
+      <BadCount>18</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>50</FamilyCat>
+      <CoupleCat>77</CoupleCat>
+      <SoloCat>16</SoloCat>
+      <BusinessCat>300</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d814849-Reviews-URBN_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>雅悦酒店</Name>
+    <Star />
+    <Ranking>28</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227135,121.44362</Location>
+    <NumberOfRooms>26</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>483</CommentCount>
+      <ExcellentCount>313</ExcellentCount>
+      <GoodCount>116</GoodCount>
+      <NormalCount>30</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>13</VeryBadCount>
+      <FamilyCat>20</FamilyCat>
+      <CoupleCat>103</CoupleCat>
+      <SoloCat>46</SoloCat>
+      <BusinessCat>146</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3258620-Reviews-Twelve_at_Hengshan_a_Luxury_Collection_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海衡山路十二号豪华精选酒店</Name>
+    <Star />
+    <Ranking>29</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.205256,121.44585</Location>
+    <NumberOfRooms>171</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>267</CommentCount>
+      <ExcellentCount>177</ExcellentCount>
+      <GoodCount>53</GoodCount>
+      <NormalCount>22</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>20</FamilyCat>
+      <CoupleCat>37</CoupleCat>
+      <SoloCat>20</SoloCat>
+      <BusinessCat>120</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1745677-Reviews-Renaissance_Shanghai_Putuo_Hotel_A_Marriott_Luxury_Lifestyle_Hotel-Shanghai.html</PrimaryKey>
+    <Name>明捷万丽酒店&amp;amp;万豪国际旗下酒店</Name>
+    <Star />
+    <Ranking>30</Ranking>
+    <Locality>Caoyang / Zhenru</Locality>
+    <Location>31.255932,121.42096</Location>
+    <NumberOfRooms>330</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>349</CommentCount>
+      <ExcellentCount>195</ExcellentCount>
+      <GoodCount>124</GoodCount>
+      <NormalCount>17</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>29</FamilyCat>
+      <CoupleCat>61</CoupleCat>
+      <SoloCat>17</SoloCat>
+      <BusinessCat>114</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1395506-Reviews-The_Yangtze_Boutique_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海扬子精品酒店</Name>
+    <Star />
+    <Ranking>31</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.2335,121.47643</Location>
+    <NumberOfRooms>96</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>633</CommentCount>
+      <ExcellentCount>392</ExcellentCount>
+      <GoodCount>187</GoodCount>
+      <NormalCount>40</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>69</FamilyCat>
+      <CoupleCat>169</CoupleCat>
+      <SoloCat>48</SoloCat>
+      <BusinessCat>173</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1478708-Reviews-Grand_Central_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海大酒店</Name>
+    <Star />
+    <Ranking>32</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.235346,121.48127</Location>
+    <NumberOfRooms>353</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>814</CommentCount>
+      <ExcellentCount>481</ExcellentCount>
+      <GoodCount>272</GoodCount>
+      <NormalCount>36</NormalCount>
+      <BadCount>13</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>121</FamilyCat>
+      <CoupleCat>203</CoupleCat>
+      <SoloCat>37</SoloCat>
+      <BusinessCat>197</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1827810-Reviews-Courtyard_by_Marriott_Shanghai_Central-Shanghai.html</PrimaryKey>
+    <Name>浦西万怡酒店</Name>
+    <Star />
+    <Ranking>33</Ranking>
+    <Locality>Shanghai Railway Station</Locality>
+    <Location>31.243425,121.45518</Location>
+    <NumberOfRooms>456</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>584</CommentCount>
+      <ExcellentCount>291</ExcellentCount>
+      <GoodCount>231</GoodCount>
+      <NormalCount>45</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>74</FamilyCat>
+      <CoupleCat>107</CoupleCat>
+      <SoloCat>52</SoloCat>
+      <BusinessCat>184</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d678592-Reviews-Cachet_Boutique_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>凯世精品酒店</Name>
+    <Star />
+    <Ranking>34</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.229681,121.45942</Location>
+    <NumberOfRooms>45</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>110</CommentCount>
+      <ExcellentCount>55</ExcellentCount>
+      <GoodCount>44</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>4</FamilyCat>
+      <CoupleCat>13</CoupleCat>
+      <SoloCat>7</SoloCat>
+      <BusinessCat>54</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d306490-Reviews-Radisson_Blu_Plaza_Xingguo_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海兴国宾馆</Name>
+    <Star />
+    <Ranking>35</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.20991,121.43454</Location>
+    <NumberOfRooms>190</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>269</CommentCount>
+      <ExcellentCount>138</ExcellentCount>
+      <GoodCount>101</GoodCount>
+      <NormalCount>20</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>17</FamilyCat>
+      <CoupleCat>30</CoupleCat>
+      <SoloCat>14</SoloCat>
+      <BusinessCat>100</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d575893-Reviews-Radisson_Blu_Hotel_Shanghai_New_World-Shanghai.html</PrimaryKey>
+    <Name>新世界丽笙大酒店</Name>
+    <Star />
+    <Ranking>36</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234636,121.473</Location>
+    <NumberOfRooms>520</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,437</CommentCount>
+      <ExcellentCount>707</ExcellentCount>
+      <GoodCount>560</GoodCount>
+      <NormalCount>127</NormalCount>
+      <BadCount>22</BadCount>
+      <VeryBadCount>20</VeryBadCount>
+      <FamilyCat>150</FamilyCat>
+      <CoupleCat>227</CoupleCat>
+      <SoloCat>78</SoloCat>
+      <BusinessCat>518</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d302998-Reviews-Central_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>王宝和大酒店</Name>
+    <Star />
+    <Ranking>37</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234938,121.48045</Location>
+    <NumberOfRooms>313</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>594</CommentCount>
+      <ExcellentCount>259</ExcellentCount>
+      <GoodCount>280</GoodCount>
+      <NormalCount>38</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>48</FamilyCat>
+      <CoupleCat>141</CoupleCat>
+      <SoloCat>28</SoloCat>
+      <BusinessCat>139</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301722-Reviews-Okura_Garden_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>花园饭店</Name>
+    <Star />
+    <Ranking>38</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.219803,121.46036</Location>
+    <NumberOfRooms>485</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>715</CommentCount>
+      <ExcellentCount>300</ExcellentCount>
+      <GoodCount>337</GoodCount>
+      <NormalCount>61</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>7</VeryBadCount>
+      <FamilyCat>52</FamilyCat>
+      <CoupleCat>48</CoupleCat>
+      <SoloCat>65</SoloCat>
+      <BusinessCat>238</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1467903-Reviews-InterContinental_Shanghai_Expo-Shanghai.html</PrimaryKey>
+    <Name>上海世博洲际酒店</Name>
+    <Star />
+    <Ranking>39</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.199299,121.50509</Location>
+    <NumberOfRooms>400</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>591</CommentCount>
+      <ExcellentCount>344</ExcellentCount>
+      <GoodCount>171</GoodCount>
+      <NormalCount>45</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>41</FamilyCat>
+      <CoupleCat>42</CoupleCat>
+      <SoloCat>34</SoloCat>
+      <BusinessCat>257</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d653121-Reviews-Shanghai_Narada_Boutique_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海中星君亭酒店 </Name>
+    <Star />
+    <Ranking>40</Ranking>
+    <Locality>城隍庙</Locality>
+    <Location>31.227774,121.48462</Location>
+    <NumberOfRooms>165</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>799</CommentCount>
+      <ExcellentCount>321</ExcellentCount>
+      <GoodCount>365</GoodCount>
+      <NormalCount>75</NormalCount>
+      <BadCount>32</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>92</FamilyCat>
+      <CoupleCat>305</CoupleCat>
+      <SoloCat>56</SoloCat>
+      <BusinessCat>118</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d578903-Reviews-Le_Royal_Meridien_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海世茂皇家艾美酒店</Name>
+    <Star />
+    <Ranking>41</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.234455,121.47578</Location>
+    <NumberOfRooms>761</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>2,085</CommentCount>
+      <ExcellentCount>1,060</ExcellentCount>
+      <GoodCount>746</GoodCount>
+      <NormalCount>184</NormalCount>
+      <BadCount>54</BadCount>
+      <VeryBadCount>32</VeryBadCount>
+      <FamilyCat>157</FamilyCat>
+      <CoupleCat>260</CoupleCat>
+      <SoloCat>90</SoloCat>
+      <BusinessCat>740</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301896-Reviews-Four_Seasons_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海四季酒店</Name>
+    <Star />
+    <Ranking>42</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227345,121.4621</Location>
+    <NumberOfRooms>422</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>782</CommentCount>
+      <ExcellentCount>418</ExcellentCount>
+      <GoodCount>248</GoodCount>
+      <NormalCount>76</NormalCount>
+      <BadCount>19</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>46</FamilyCat>
+      <CoupleCat>52</CoupleCat>
+      <SoloCat>24</SoloCat>
+      <BusinessCat>248</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299749-Reviews-Renaissance_Shanghai_Yangtze_Hotel-Shanghai.html</PrimaryKey>
+    <Name>扬子江万丽大酒店</Name>
+    <Star />
+    <Ranking>43</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.202818,121.4063</Location>
+    <NumberOfRooms>542</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>504</CommentCount>
+      <ExcellentCount>167</ExcellentCount>
+      <GoodCount>250</GoodCount>
+      <NormalCount>66</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>13</FamilyCat>
+      <CoupleCat>32</CoupleCat>
+      <SoloCat>34</SoloCat>
+      <BusinessCat>223</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1021906-Reviews-Swissotel_Grand_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海宏安瑞士大酒店</Name>
+    <Star />
+    <Ranking>44</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.224709,121.447</Location>
+    <NumberOfRooms>467</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>900</CommentCount>
+      <ExcellentCount>416</ExcellentCount>
+      <GoodCount>353</GoodCount>
+      <NormalCount>87</NormalCount>
+      <BadCount>22</BadCount>
+      <VeryBadCount>16</VeryBadCount>
+      <FamilyCat>62</FamilyCat>
+      <CoupleCat>87</CoupleCat>
+      <SoloCat>51</SoloCat>
+      <BusinessCat>433</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d4925900-Reviews-Pullman_Shanghai_South-Shanghai.html</PrimaryKey>
+    <Name>上海中星铂尔曼大酒店</Name>
+    <Star />
+    <Ranking>45</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.15989,121.43007</Location>
+    <NumberOfRooms>338</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>116</CommentCount>
+      <ExcellentCount>60</ExcellentCount>
+      <GoodCount>42</GoodCount>
+      <NormalCount>11</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>8</FamilyCat>
+      <CoupleCat>11</CoupleCat>
+      <SoloCat>8</SoloCat>
+      <BusinessCat>67</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d301769-Reviews-The_Hongta_Hotel_A_Luxury_Collection_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海红塔豪华精选酒店</Name>
+    <Star />
+    <Ranking>46</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.22391,121.528015</Location>
+    <NumberOfRooms>328</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>560</CommentCount>
+      <ExcellentCount>287</ExcellentCount>
+      <GoodCount>191</GoodCount>
+      <NormalCount>71</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>29</FamilyCat>
+      <CoupleCat>41</CoupleCat>
+      <SoloCat>31</SoloCat>
+      <BusinessCat>201</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d657874-Reviews-Renaissance_Shanghai_Yu_Garden_Hotel-Shanghai.html</PrimaryKey>
+    <Name>豫园万丽酒店</Name>
+    <Star />
+    <Ranking>47</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.2275,121.48807</Location>
+    <NumberOfRooms>341</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>930</CommentCount>
+      <ExcellentCount>444</ExcellentCount>
+      <GoodCount>356</GoodCount>
+      <NormalCount>93</NormalCount>
+      <BadCount>19</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>120</FamilyCat>
+      <CoupleCat>184</CoupleCat>
+      <SoloCat>55</SoloCat>
+      <BusinessCat>242</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3446313-Reviews-Renaissance_Shanghai_Caohejing_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海漕河泾万丽酒店</Name>
+    <Star />
+    <Ranking>48</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.165379,121.39692</Location>
+    <NumberOfRooms>373</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>151</CommentCount>
+      <ExcellentCount>80</ExcellentCount>
+      <GoodCount>57</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>8</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>111</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d6904825-Reviews-Jinjiang_Metropolo_Hotel_Classiq_Shanghai_Off_Bund-Shanghai.html</PrimaryKey>
+    <Name>锦江都城外滩经典酒店</Name>
+    <Star />
+    <Ranking>49</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.23888,121.48808</Location>
+    <NumberOfRooms>109</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>61</CommentCount>
+      <ExcellentCount>36</ExcellentCount>
+      <GoodCount>19</GoodCount>
+      <NormalCount>4</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>7</FamilyCat>
+      <CoupleCat>22</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>14</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d677593-Reviews-Renaissance_Shanghai_Zhongshan_Park_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海龙之梦万丽酒店</Name>
+    <Star />
+    <Ranking>50</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.218967,121.41635</Location>
+    <NumberOfRooms>684</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>634</CommentCount>
+      <ExcellentCount>261</ExcellentCount>
+      <GoodCount>299</GoodCount>
+      <NormalCount>51</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>8</VeryBadCount>
+      <FamilyCat>29</FamilyCat>
+      <CoupleCat>40</CoupleCat>
+      <SoloCat>38</SoloCat>
+      <BusinessCat>244</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299595-Reviews-DoubleTree_by_Hilton_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海东锦江希尔顿逸林酒店</Name>
+    <Star />
+    <Ranking>51</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.210901,121.53415</Location>
+    <NumberOfRooms>850</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>861</CommentCount>
+      <ExcellentCount>345</ExcellentCount>
+      <GoodCount>340</GoodCount>
+      <NormalCount>121</NormalCount>
+      <BadCount>30</BadCount>
+      <VeryBadCount>19</VeryBadCount>
+      <FamilyCat>33</FamilyCat>
+      <CoupleCat>45</CoupleCat>
+      <SoloCat>38</SoloCat>
+      <BusinessCat>427</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1878912-Reviews-Sheraton_Shanghai_Hongkou_Hotel-Shanghai.html</PrimaryKey>
+    <Name>虹口喜来登酒店 </Name>
+    <Star />
+    <Ranking>52</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.25771,121.48782</Location>
+    <NumberOfRooms>471</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>695</CommentCount>
+      <ExcellentCount>403</ExcellentCount>
+      <GoodCount>209</GoodCount>
+      <NormalCount>54</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>67</FamilyCat>
+      <CoupleCat>106</CoupleCat>
+      <SoloCat>50</SoloCat>
+      <BusinessCat>273</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d307504-Reviews-InterContinental_Shanghai_Pudong-Shanghai.html</PrimaryKey>
+    <Name>上海锦江汤臣洲际大酒店</Name>
+    <Star />
+    <Ranking>53</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.229555,121.52168</Location>
+    <NumberOfRooms>398</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>982</CommentCount>
+      <ExcellentCount>451</ExcellentCount>
+      <GoodCount>395</GoodCount>
+      <NormalCount>86</NormalCount>
+      <BadCount>35</BadCount>
+      <VeryBadCount>13</VeryBadCount>
+      <FamilyCat>65</FamilyCat>
+      <CoupleCat>56</CoupleCat>
+      <SoloCat>56</SoloCat>
+      <BusinessCat>405</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2512384-Reviews-Crowne_Plaza_Shanghai_Xiayang_Lake_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海夏阳湖皇冠假日酒店</Name>
+    <Star />
+    <Ranking>54</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.151382,121.13811</Location>
+    <NumberOfRooms>313</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>63</CommentCount>
+      <ExcellentCount>29</ExcellentCount>
+      <GoodCount>23</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>7</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>33</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d300597-Reviews-Hilton_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>上海希尔顿酒店</Name>
+    <Star />
+    <Ranking>55</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.21949,121.44536</Location>
+    <NumberOfRooms>714</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,929</CommentCount>
+      <ExcellentCount>714</ExcellentCount>
+      <GoodCount>887</GoodCount>
+      <NormalCount>230</NormalCount>
+      <BadCount>71</BadCount>
+      <VeryBadCount>27</VeryBadCount>
+      <FamilyCat>102</FamilyCat>
+      <CoupleCat>135</CoupleCat>
+      <SoloCat>101</SoloCat>
+      <BusinessCat>717</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1119070-Reviews-Sofitel_Shanghai_Sheshan_Oriental-Shanghai.html</PrimaryKey>
+    <Name>上海东方佘山索菲特大酒店</Name>
+    <Star />
+    <Ranking>56</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.113935,121.2236</Location>
+    <NumberOfRooms>368</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>484</CommentCount>
+      <ExcellentCount>237</ExcellentCount>
+      <GoodCount>164</GoodCount>
+      <NormalCount>43</NormalCount>
+      <BadCount>16</BadCount>
+      <VeryBadCount>9</VeryBadCount>
+      <FamilyCat>81</FamilyCat>
+      <CoupleCat>46</CoupleCat>
+      <SoloCat>10</SoloCat>
+      <BusinessCat>56</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d302253-Reviews-The_Portman_Ritz_Carlton_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>波特曼丽思卡尔顿酒店</Name>
+    <Star />
+    <Ranking>57</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.227106,121.45189</Location>
+    <NumberOfRooms>610</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>1,104</CommentCount>
+      <ExcellentCount>519</ExcellentCount>
+      <GoodCount>387</GoodCount>
+      <NormalCount>136</NormalCount>
+      <BadCount>36</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>70</FamilyCat>
+      <CoupleCat>123</CoupleCat>
+      <SoloCat>29</SoloCat>
+      <BusinessCat>364</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d299549-Reviews-Sofitel_Shanghai_Hyland-Shanghai.html</PrimaryKey>
+    <Name>索菲特海仑宾馆</Name>
+    <Star />
+    <Ranking>58</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.235546,121.4808</Location>
+    <NumberOfRooms>383</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>819</CommentCount>
+      <ExcellentCount>338</ExcellentCount>
+      <GoodCount>338</GoodCount>
+      <NormalCount>95</NormalCount>
+      <BadCount>28</BadCount>
+      <VeryBadCount>18</VeryBadCount>
+      <FamilyCat>81</FamilyCat>
+      <CoupleCat>166</CoupleCat>
+      <SoloCat>47</SoloCat>
+      <BusinessCat>312</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1852262-Reviews-Hilton_Shanghai_Hongqiao-Shanghai.html</PrimaryKey>
+    <Name>上海虹桥元一希尔顿酒店</Name>
+    <Star />
+    <Ranking>59</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.187359,121.39447</Location>
+    <NumberOfRooms>662</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>657</CommentCount>
+      <ExcellentCount>305</ExcellentCount>
+      <GoodCount>259</GoodCount>
+      <NormalCount>65</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>15</VeryBadCount>
+      <FamilyCat>33</FamilyCat>
+      <CoupleCat>31</CoupleCat>
+      <SoloCat>25</SoloCat>
+      <BusinessCat>450</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1235768-Reviews-Courtyard_by_Marriott_Shanghai_Xujiahui-Shanghai.html</PrimaryKey>
+    <Name>西藏大厦万怡酒店</Name>
+    <Star />
+    <Ranking>60</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.192196,121.43462</Location>
+    <NumberOfRooms>364</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>334</CommentCount>
+      <ExcellentCount>133</ExcellentCount>
+      <GoodCount>158</GoodCount>
+      <NormalCount>28</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>12</FamilyCat>
+      <CoupleCat>15</CoupleCat>
+      <SoloCat>14</SoloCat>
+      <BusinessCat>168</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d607464-Reviews-Shanghai_City_Central_Youth_hostel-Shanghai.html</PrimaryKey>
+    <Name>上海万里路青年酒店</Name>
+    <Star />
+    <Ranking>131</Ranking>
+    <Locality>Changshou Road</Locality>
+    <Location>31.241192,121.42182</Location>
+    <NumberOfRooms>144</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>208</CommentCount>
+      <ExcellentCount>77</ExcellentCount>
+      <GoodCount>78</GoodCount>
+      <NormalCount>35</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>7</VeryBadCount>
+      <FamilyCat>13</FamilyCat>
+      <CoupleCat>21</CoupleCat>
+      <SoloCat>25</SoloCat>
+      <BusinessCat>10</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2144035-Reviews-Jinjiang_Inn_Shanghai_Waitan_Binjiang-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星外滩滨江店</Name>
+    <Star />
+    <Ranking>140</Ranking>
+    <Locality>外滩</Locality>
+    <Location>31.242498,121.48627</Location>
+    <NumberOfRooms>121</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>26</CommentCount>
+      <ExcellentCount>10</ExcellentCount>
+      <GoodCount>14</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>3</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050804-Reviews-Jinjiang_Inn_Shanghai_Sichuan_North_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星四川北路店</Name>
+    <Star />
+    <Ranking>155</Ranking>
+    <Locality>Sichuan North Road</Locality>
+    <Location>31.259083,121.479355</Location>
+    <NumberOfRooms>87</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>158</CommentCount>
+      <ExcellentCount>33</ExcellentCount>
+      <GoodCount>102</GoodCount>
+      <NormalCount>21</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>4</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050792-Reviews-Jinjiang_Inn_Shanghai_North_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星北外滩店</Name>
+    <Star />
+    <Ranking>163</Ranking>
+    <Locality>The North Bund</Locality>
+    <Location>31.262308,121.51116</Location>
+    <NumberOfRooms>187</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>179</CommentCount>
+      <ExcellentCount>37</ExcellentCount>
+      <GoodCount>119</GoodCount>
+      <NormalCount>21</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310735-Reviews-Jinjiang_Inn_Shanghai_Lujiazui-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海陆家嘴店</Name>
+    <Star />
+    <Ranking>166</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.21758,121.51632</Location>
+    <NumberOfRooms>247</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>193</CommentCount>
+      <ExcellentCount>34</ExcellentCount>
+      <GoodCount>124</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310657-Reviews-Jinjiang_Inn_Shanghai_Songjiang_University-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星松江大学城店</Name>
+    <Star />
+    <Ranking>170</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.020948,121.215744</Location>
+    <NumberOfRooms>153</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>124</CommentCount>
+      <ExcellentCount>38</ExcellentCount>
+      <GoodCount>78</GoodCount>
+      <NormalCount>7</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1051242-Reviews-Jinjiang_Inn_Shanghai_Jinjiang_Amusement_Park-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星锦江乐园店</Name>
+    <Star />
+    <Ranking>184</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.14153,121.41043</Location>
+    <NumberOfRooms>104</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>187</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>134</GoodCount>
+      <NormalCount>27</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050793-Reviews-Jinjiang_Inn_Shanghai_The_Bund-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海外滩店</Name>
+    <Star />
+    <Ranking>190</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.231913,121.47932</Location>
+    <NumberOfRooms>144</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>326</CommentCount>
+      <ExcellentCount>42</ExcellentCount>
+      <GoodCount>218</GoodCount>
+      <NormalCount>55</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>4</FamilyCat>
+      <CoupleCat>10</CoupleCat>
+      <SoloCat>15</SoloCat>
+      <BusinessCat>12</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050794-Reviews-Jinjiang_Inn_Shanghai_Zhenbei-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星真北店</Name>
+    <Star />
+    <Ranking>191</Ranking>
+    <Locality>Caoyang / Zhenru</Locality>
+    <Location>31.25197,121.39133</Location>
+    <NumberOfRooms>193</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>111</CommentCount>
+      <ExcellentCount>28</ExcellentCount>
+      <GoodCount>63</GoodCount>
+      <NormalCount>15</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>16</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050808-Reviews-Jinjiang_Inn_Shanghai_New_Hongqiao-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星新虹桥店</Name>
+    <Star />
+    <Ranking>197</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.1867,121.41426</Location>
+    <NumberOfRooms>481</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>302</CommentCount>
+      <ExcellentCount>55</ExcellentCount>
+      <GoodCount>202</GoodCount>
+      <NormalCount>41</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>17</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050805-Reviews-Jinjiang_Inn_Shanghai_Hongkou_Football_Stadium-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星虹口足球场店</Name>
+    <Star />
+    <Ranking>200</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.276464,121.48057</Location>
+    <NumberOfRooms>150</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>234</CommentCount>
+      <ExcellentCount>29</ExcellentCount>
+      <GoodCount>155</GoodCount>
+      <NormalCount>43</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050503-Reviews-Jinjiang_Inn_Shanghai_Luwan_Liyuan-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星卢湾丽园店</Name>
+    <Star />
+    <Ranking>203</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.209206,121.472565</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>122</CommentCount>
+      <ExcellentCount>28</ExcellentCount>
+      <GoodCount>73</GoodCount>
+      <NormalCount>20</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>12</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1635246-Reviews-Jinjiang_Inn_Shanghai_Huaihai_East_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星淮海东路店</Name>
+    <Star />
+    <Ranking>207</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.228226,121.477196</Location>
+    <NumberOfRooms>159</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>117</CommentCount>
+      <ExcellentCount>34</ExcellentCount>
+      <GoodCount>65</GoodCount>
+      <NormalCount>16</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>4</CoupleCat>
+      <SoloCat>5</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d5785419-Reviews-Hanting_Express_Shanghai_Pudong_Airport-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭浦东机场店</Name>
+    <Star />
+    <Ranking>209</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.18642,121.77297</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>8</CommentCount>
+      <ExcellentCount>3</ExcellentCount>
+      <GoodCount>3</GoodCount>
+      <NormalCount>2</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1519409-Reviews-Home_Inn_Shanghai_Xujiahui_Guangda_Liuzhou_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家徐家汇光大柳州路店</Name>
+    <Star />
+    <Ranking>216</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.17882,121.41885</Location>
+    <NumberOfRooms>95</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>291</CommentCount>
+      <ExcellentCount>38</ExcellentCount>
+      <GoodCount>194</GoodCount>
+      <NormalCount>48</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>5</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>121</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050777-Reviews-Jinjiang_Inn_Shanghai_Zhangjiang-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海张江店</Name>
+    <Star />
+    <Ranking>217</Ranking>
+    <Locality>Zhangjiang</Locality>
+    <Location>31.21074,121.6122</Location>
+    <NumberOfRooms>250</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>185</CommentCount>
+      <ExcellentCount>33</ExcellentCount>
+      <GoodCount>111</GoodCount>
+      <NormalCount>36</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d609960-Reviews-Home_Inn_Shanghai_Xu_Jia_Hui-Shanghai.html</PrimaryKey>
+    <Name>上海如家徐家汇店</Name>
+    <Star />
+    <Ranking>218</Ranking>
+    <Locality>Xujiahui</Locality>
+    <Location>31.18764,121.44212</Location>
+    <NumberOfRooms>180</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>438</CommentCount>
+      <ExcellentCount>42</ExcellentCount>
+      <GoodCount>281</GoodCount>
+      <NormalCount>107</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>10</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1052194-Reviews-Jinjiang_Inn_Shanghai_Helen_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星海伦路店</Name>
+    <Star />
+    <Ranking>224</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.26329,121.49027</Location>
+    <NumberOfRooms>110</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>74</CommentCount>
+      <ExcellentCount>19</ExcellentCount>
+      <GoodCount>45</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>8</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050876-Reviews-Chun_Shen_Jiang_Hotel-Shanghai.html</PrimaryKey>
+    <Name>春申江宾馆</Name>
+    <Star />
+    <Ranking>225</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.23597,121.47817</Location>
+    <NumberOfRooms>92</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>69</CommentCount>
+      <ExcellentCount>10</ExcellentCount>
+      <GoodCount>35</GoodCount>
+      <NormalCount>18</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>7</FamilyCat>
+      <CoupleCat>7</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050786-Reviews-Jinjiang_Inn_Shanghai_Zhongshan_Park-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海中山公园店</Name>
+    <Star />
+    <Ranking>226</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.2235,121.42</Location>
+    <NumberOfRooms>103</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>132</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>90</GoodCount>
+      <NormalCount>16</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050797-Reviews-Jinjiang_Inn_Shanghai_Hutai_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星沪太路店</Name>
+    <Star />
+    <Ranking>231</Ranking>
+    <Locality>Life Hub DANING</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>87</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>90</CommentCount>
+      <ExcellentCount>14</ExcellentCount>
+      <GoodCount>56</GoodCount>
+      <NormalCount>17</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050779-Reviews-Jinjiang_Inn_Shanghai_Yixian_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星逸仙路店</Name>
+    <Star />
+    <Ranking>232</Ranking>
+    <Locality>Jiangwan / Wujiaochang</Locality>
+    <Location>31.315,121.48579</Location>
+    <NumberOfRooms>145</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>93</CommentCount>
+      <ExcellentCount>19</ExcellentCount>
+      <GoodCount>62</GoodCount>
+      <NormalCount>12</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1906349-Reviews-Jinjiang_Inn_Shanghai_Pusan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星世博园区浦三路店</Name>
+    <Star />
+    <Ranking>235</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.19473,121.51329</Location>
+    <NumberOfRooms>202</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>64</CommentCount>
+      <ExcellentCount>15</ExcellentCount>
+      <GoodCount>41</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050605-Reviews-Jinjiang_Inn_Shanghai_Pudong_Airport_Second-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星浦东机场二店</Name>
+    <Star />
+    <Ranking>237</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.17302,121.79496</Location>
+    <NumberOfRooms>216</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>286</CommentCount>
+      <ExcellentCount>42</ExcellentCount>
+      <GoodCount>177</GoodCount>
+      <NormalCount>60</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>7</CoupleCat>
+      <SoloCat>13</SoloCat>
+      <BusinessCat>36</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402406-Reviews-Jinjiang_Inn_Shanghai_Baoyang_Pier-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星宝杨码头店</Name>
+    <Star />
+    <Ranking>248</Ranking>
+    <Locality>Baogang Industrial Park</Locality>
+    <Location>31.39996,121.4914</Location>
+    <NumberOfRooms>120</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>65</CommentCount>
+      <ExcellentCount>11</ExcellentCount>
+      <GoodCount>36</GoodCount>
+      <NormalCount>16</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1655508-Reviews-Jinjiang_Inn_Shanghai_World_Expo_Licheng_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星世博园区历城路店</Name>
+    <Star />
+    <Ranking>250</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.17665,121.49251</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>53</CommentCount>
+      <ExcellentCount>10</ExcellentCount>
+      <GoodCount>40</GoodCount>
+      <NormalCount>3</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1409628-Reviews-7_Days_Inn_Shanghai_Lujiazui-Shanghai.html</PrimaryKey>
+    <Name>7天上海陆家嘴店</Name>
+    <Star />
+    <Ranking>251</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.22351,121.5184</Location>
+    <NumberOfRooms>187</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>323</CommentCount>
+      <ExcellentCount>36</ExcellentCount>
+      <GoodCount>208</GoodCount>
+      <NormalCount>73</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1051316-Reviews-Jinjiang_Inn_Shanghai_Longcao-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星龙漕路店</Name>
+    <Star />
+    <Ranking>252</Ranking>
+    <Locality>Shanghai South Railway Station</Locality>
+    <Location>31.16718,121.43847</Location>
+    <NumberOfRooms>116</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>93</CommentCount>
+      <ExcellentCount>20</ExcellentCount>
+      <GoodCount>61</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1239275-Reviews-Home_Inn_Shanghai_Lujiabang_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家陆家浜路地铁站店</Name>
+    <Star />
+    <Ranking>253</Ranking>
+    <Locality>新天地</Locality>
+    <Location>31.21231,121.48343</Location>
+    <NumberOfRooms>140</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>130</CommentCount>
+      <ExcellentCount>18</ExcellentCount>
+      <GoodCount>71</GoodCount>
+      <NormalCount>32</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1049427-Reviews-Motel_168_Shanghai_Xujiahui_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168徐家汇路店</Name>
+    <Star />
+    <Ranking>256</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.210888,121.48143</Location>
+    <NumberOfRooms>335</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>319</CommentCount>
+      <ExcellentCount>32</ExcellentCount>
+      <GoodCount>206</GoodCount>
+      <NormalCount>62</NormalCount>
+      <BadCount>17</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310726-Reviews-Jinjiang_Inn_Shanghai_Minsheng_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星民生路店</Name>
+    <Star />
+    <Ranking>261</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.238262,121.54288</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>79</CommentCount>
+      <ExcellentCount>13</ExcellentCount>
+      <GoodCount>55</GoodCount>
+      <NormalCount>9</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050789-Reviews-Jinjiang_Inn_Shanghai_Guangda_Convention_Center-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星光大会展中心店</Name>
+    <Star />
+    <Ranking>262</Ranking>
+    <Locality>Caohejing Development Zone</Locality>
+    <Location>31.16373,121.4097</Location>
+    <NumberOfRooms>148</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>222</CommentCount>
+      <ExcellentCount>35</ExcellentCount>
+      <GoodCount>141</GoodCount>
+      <NormalCount>44</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048713-Reviews-Hanting_Express_Shanghai_Damuqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭大木桥路店</Name>
+    <Star />
+    <Ranking>267</Ranking>
+    <Locality>Dapuqiao</Locality>
+    <Location>31.19719,121.46462</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>77</CommentCount>
+      <ExcellentCount>11</ExcellentCount>
+      <GoodCount>48</GoodCount>
+      <NormalCount>14</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1412304-Reviews-Jinjiang_Inn_Shanghai_Maglev_Station-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星磁悬浮总站店</Name>
+    <Star />
+    <Ranking>271</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.207247,121.55504</Location>
+    <NumberOfRooms>119</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>114</CommentCount>
+      <ExcellentCount>15</ExcellentCount>
+      <GoodCount>64</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>5</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>10</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048711-Reviews-Hanting_Express_Shanghai_Xujiahui-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭徐家汇店</Name>
+    <Star />
+    <Ranking>275</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.18801,121.42495</Location>
+    <NumberOfRooms>85</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>160</CommentCount>
+      <ExcellentCount>33</ExcellentCount>
+      <GoodCount>99</GoodCount>
+      <NormalCount>23</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1655498-Reviews-Jinjiang_Inn_Shanghai_Shibei_Industrial_Park-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星市北工业园店</Name>
+    <Star />
+    <Ranking>276</Ranking>
+    <Locality>Pengpu</Locality>
+    <Location>31.298376,121.4463</Location>
+    <NumberOfRooms>108</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>32</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>20</GoodCount>
+      <NormalCount>3</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1308209-Reviews-Motel_168_Shanghai_Tianmu_East_Road-Shanghai.html</PrimaryKey>
+    <Name>莫泰168酒店上海天目东路宝山路地铁站店</Name>
+    <Star />
+    <Ranking>284</Ranking>
+    <Locality>Sichuan North Road</Locality>
+    <Location>31.25019,121.47875</Location>
+    <NumberOfRooms>210</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>162</CommentCount>
+      <ExcellentCount>6</ExcellentCount>
+      <GoodCount>92</GoodCount>
+      <NormalCount>51</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048714-Reviews-Hanting_Express_Shanghai_Xiangyang_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭襄阳路店</Name>
+    <Star />
+    <Ranking>288</Ranking>
+    <Locality>法租界</Locality>
+    <Location>31.214106,121.45671</Location>
+    <NumberOfRooms>72</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>78</CommentCount>
+      <ExcellentCount>12</ExcellentCount>
+      <GoodCount>47</GoodCount>
+      <NormalCount>14</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402312-Reviews-Motel_168_Shanghai_Tianyaoqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168天钥桥路店</Name>
+    <Star />
+    <Ranking>298</Ranking>
+    <Locality>Shanghai Stadium</Locality>
+    <Location>31.17887,121.44523</Location>
+    <NumberOfRooms>202</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>199</CommentCount>
+      <ExcellentCount>25</ExcellentCount>
+      <GoodCount>121</GoodCount>
+      <NormalCount>39</NormalCount>
+      <BadCount>11</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1051319-Reviews-Hanting_Express_Shanghai_Nandan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭南丹路店</Name>
+    <Star />
+    <Ranking>299</Ranking>
+    <Locality>Xujiahui</Locality>
+    <Location>31.19043,121.44369</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>48</CommentCount>
+      <ExcellentCount>6</ExcellentCount>
+      <GoodCount>26</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1672525-Reviews-Motel_168_Shanghai_Minhang_Jiaoda_Humin_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168闵行交大沪闵路</Name>
+    <Star />
+    <Ranking>303</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>,</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>36</CommentCount>
+      <ExcellentCount>8</ExcellentCount>
+      <GoodCount>19</GoodCount>
+      <NormalCount>7</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1581224-Reviews-Jinyue_99_Inn_Shanghai_Pudong_Airport_Shiwan-Shanghai.html</PrimaryKey>
+    <Name>上海景悦99客栈浦东机场施湾店</Name>
+    <Star />
+    <Ranking>305</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.15602,121.76045</Location>
+    <NumberOfRooms>112</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>99</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>42</GoodCount>
+      <NormalCount>19</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>4</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050787-Reviews-Jinjiang_Inn_Shanghai_Hongmei_South_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星虹梅南路店</Name>
+    <Star />
+    <Ranking>308</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.12447,121.42343</Location>
+    <NumberOfRooms>143</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>73</CommentCount>
+      <ExcellentCount>14</ExcellentCount>
+      <GoodCount>50</GoodCount>
+      <NormalCount>8</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1464590-Reviews-7_Days_Inn_Shanghai_Xujiahui_Longcao_Road_Subway_Station-Shanghai.html</PrimaryKey>
+    <Name>7天上海徐家汇龙漕路地铁站店</Name>
+    <Star />
+    <Ranking>318</Ranking>
+    <Locality>Shanghai Stadium</Locality>
+    <Location>31.178717,121.452126</Location>
+    <NumberOfRooms>90</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>128</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>78</GoodCount>
+      <NormalCount>26</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050811-Reviews-Jinjiang_Inn_Shanghai_Huamu-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星花木店</Name>
+    <Star />
+    <Ranking>321</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>31.20708,121.54064</Location>
+    <NumberOfRooms>266</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>225</CommentCount>
+      <ExcellentCount>30</ExcellentCount>
+      <GoodCount>156</GoodCount>
+      <NormalCount>35</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1052073-Reviews-Jinjiang_Inn_Shanghai_Chifeng_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星赤峰路店</Name>
+    <Star />
+    <Ranking>325</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.284466,121.48202</Location>
+    <NumberOfRooms>120</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>106</CommentCount>
+      <ExcellentCount>16</ExcellentCount>
+      <GoodCount>80</GoodCount>
+      <NormalCount>10</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1231385-Reviews-7_Days_Inn_Shanghai_Songjiang-Shanghai.html</PrimaryKey>
+    <Name>7天上海松江店</Name>
+    <Star />
+    <Ranking>326</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.01759,121.26196</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>123</CommentCount>
+      <ExcellentCount>22</ExcellentCount>
+      <GoodCount>72</GoodCount>
+      <NormalCount>24</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d623031-Reviews-GreenTree_Inn_Jing_an_Xinzha_Road_Business_Hotel-Shanghai.html</PrimaryKey>
+    <Name>格林豪泰上海静安新闸路商务酒店</Name>
+    <Star />
+    <Ranking>330</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.232578,121.452644</Location>
+    <NumberOfRooms>143</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>202</CommentCount>
+      <ExcellentCount>30</ExcellentCount>
+      <GoodCount>113</GoodCount>
+      <NormalCount>44</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>5</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050871-Reviews-Jinjiang_Inn_Shanghai_East_China_Normal_University-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星华师大店</Name>
+    <Star />
+    <Ranking>331</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.23022,121.41066</Location>
+    <NumberOfRooms>177</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>174</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>98</GoodCount>
+      <NormalCount>46</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407782-Reviews-Hanting_Hotel_Shanghai_Nanjing_West_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭南京西路店</Name>
+    <Star />
+    <Ranking>334</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.228292,121.46252</Location>
+    <NumberOfRooms>142</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>166</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>107</GoodCount>
+      <NormalCount>27</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>9</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1674905-Reviews-Hanting_Hi_Inn_Shanghai_Expo_Pudong_South_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭海友客栈世博浦东南路店</Name>
+    <Star />
+    <Ranking>338</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.20824,121.51531</Location>
+    <NumberOfRooms>177</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>234</CommentCount>
+      <ExcellentCount>48</ExcellentCount>
+      <GoodCount>111</GoodCount>
+      <NormalCount>56</NormalCount>
+      <BadCount>17</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>3</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1231394-Reviews-7_Days_Inn_Shanghai_Xujiahui_Second-Shanghai.html</PrimaryKey>
+    <Name>7天上海徐家汇二店</Name>
+    <Star />
+    <Ranking>342</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.1799,121.411446</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>177</CommentCount>
+      <ExcellentCount>27</ExcellentCount>
+      <GoodCount>120</GoodCount>
+      <NormalCount>26</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d607461-Reviews-Hanting_Express_Shanghai_Hongqiao_Jinhui_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭虹桥金汇路店</Name>
+    <Star />
+    <Ranking>344</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.189777,121.37192</Location>
+    <NumberOfRooms>110</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>113</CommentCount>
+      <ExcellentCount>18</ExcellentCount>
+      <GoodCount>65</GoodCount>
+      <NormalCount>23</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d586566-Reviews-Jinjiang_Inn_Shanghai_Nanjing_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星锦江南京饭店</Name>
+    <Star />
+    <Ranking>352</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.237532,121.482254</Location>
+    <NumberOfRooms>165</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>301</CommentCount>
+      <ExcellentCount>28</ExcellentCount>
+      <GoodCount>158</GoodCount>
+      <NormalCount>84</NormalCount>
+      <BadCount>20</BadCount>
+      <VeryBadCount>11</VeryBadCount>
+      <FamilyCat>9</FamilyCat>
+      <CoupleCat>28</CoupleCat>
+      <SoloCat>23</SoloCat>
+      <BusinessCat>17</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050813-Reviews-Jinjiang_Inn_Shanghai_South_Railway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星铁路南站店</Name>
+    <Star />
+    <Ranking>357</Ranking>
+    <Locality>Shanghai South Railway Station</Locality>
+    <Location>31.15937,121.44913</Location>
+    <NumberOfRooms>169</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>179</CommentCount>
+      <ExcellentCount>28</ExcellentCount>
+      <GoodCount>115</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048340-Reviews-Jinjiang_Inn_Shanghai_Railway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星火车站店</Name>
+    <Star />
+    <Ranking>359</Ranking>
+    <Locality>Shanghai Railway Station</Locality>
+    <Location>31.2565,121.45079</Location>
+    <NumberOfRooms>53</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>211</CommentCount>
+      <ExcellentCount>22</ExcellentCount>
+      <GoodCount>134</GoodCount>
+      <NormalCount>49</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050877-Reviews-Jinjiang_Inn_Shanghai_Baoshan_Shengqiao-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星宝山盛桥店</Name>
+    <Star />
+    <Ranking>360</Ranking>
+    <Locality>Gucun Park</Locality>
+    <Location>31.34513,121.43588</Location>
+    <NumberOfRooms>69</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>45</CommentCount>
+      <ExcellentCount>13</ExcellentCount>
+      <GoodCount>25</GoodCount>
+      <NormalCount>6</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>8</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050815-Reviews-Jinjiang_Inn_Shanghai_Pudong_South_Road_Tang_Bridge-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星浦东南路塘桥店</Name>
+    <Star />
+    <Ranking>361</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>103</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>118</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>87</GoodCount>
+      <NormalCount>20</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>17</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050796-Reviews-Jinjiang_Inn_Shanghai_Wuning-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星武宁店</Name>
+    <Star />
+    <Ranking>364</Ranking>
+    <Locality>Changshou Road</Locality>
+    <Location>31.24226,121.4196</Location>
+    <NumberOfRooms>174</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>147</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>91</GoodCount>
+      <NormalCount>28</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050593-Reviews-Home_Inn_Shanghai_Renmin_Square_Fuzhou_Road_Shanghai_Book_Store-Shanghai.html</PrimaryKey>
+    <Name>上海如家人民广场福州路上海书城店</Name>
+    <Star />
+    <Ranking>366</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.23268,121.48122</Location>
+    <NumberOfRooms>116</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>39</CommentCount>
+      <ExcellentCount>5</ExcellentCount>
+      <GoodCount>15</GoodCount>
+      <NormalCount>14</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402334-Reviews-7_Days_Inn_Shanghai_Xujiahui_Sixth_Renmin_Hospital-Shanghai.html</PrimaryKey>
+    <Name>7天上海徐家汇第六人民医院店</Name>
+    <Star />
+    <Ranking>367</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.17679,121.42806</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>226</CommentCount>
+      <ExcellentCount>18</ExcellentCount>
+      <GoodCount>153</GoodCount>
+      <NormalCount>48</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1215514-Reviews-7_Days_Inn_Shanghai_Hongqiao-Shanghai.html</PrimaryKey>
+    <Name>7天上海虹桥店</Name>
+    <Star />
+    <Ranking>368</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.17782,121.387924</Location>
+    <NumberOfRooms>141</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>209</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>128</GoodCount>
+      <NormalCount>50</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d573009-Reviews-Shanghai_Yang_Jian_Hua_Hotel-Shanghai.html</PrimaryKey>
+    <Name>上海杨建华大酒店花木店</Name>
+    <Star />
+    <Ranking>370</Ranking>
+    <Locality>世纪公园</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>76</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>22</CommentCount>
+      <ExcellentCount>3</ExcellentCount>
+      <GoodCount>10</GoodCount>
+      <NormalCount>6</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>2</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1049449-Reviews-Home_Inn_Shanghai_Wujiaochang-Shanghai.html</PrimaryKey>
+    <Name>上海如家五角场店</Name>
+    <Star />
+    <Ranking>372</Ranking>
+    <Locality>Jiangwan / Wujiaochang</Locality>
+    <Location>31.297068,121.52021</Location>
+    <NumberOfRooms>190</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>305</CommentCount>
+      <ExcellentCount>34</ExcellentCount>
+      <GoodCount>166</GoodCount>
+      <NormalCount>85</NormalCount>
+      <BadCount>19</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d615042-Reviews-Home_Inn_Shanghai_Jing_an_Shanxi_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家静安陕西路店</Name>
+    <Star />
+    <Ranking>374</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.236221,121.44748</Location>
+    <NumberOfRooms>125</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>163</CommentCount>
+      <ExcellentCount>22</ExcellentCount>
+      <GoodCount>97</GoodCount>
+      <NormalCount>37</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1049596-Reviews-Motel_168_Shanghai_Yan_an_West_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168延安西路店</Name>
+    <Star />
+    <Ranking>379</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.212288,121.42373</Location>
+    <NumberOfRooms>507</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>387</CommentCount>
+      <ExcellentCount>32</ExcellentCount>
+      <GoodCount>215</GoodCount>
+      <NormalCount>101</NormalCount>
+      <BadCount>28</BadCount>
+      <VeryBadCount>11</VeryBadCount>
+      <FamilyCat>5</FamilyCat>
+      <CoupleCat>5</CoupleCat>
+      <SoloCat>6</SoloCat>
+      <BusinessCat>52</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407822-Reviews-GreenTree_Inn_Shanghai_Dabai_Tree_Business_Hotel-Shanghai.html</PrimaryKey>
+    <Name>格林豪泰上海大柏树商务酒店</Name>
+    <Star />
+    <Ranking>380</Ranking>
+    <Locality>Jiangwan / Wujiaochang</Locality>
+    <Location>31.29512,121.48991</Location>
+    <NumberOfRooms>217</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>187</CommentCount>
+      <ExcellentCount>31</ExcellentCount>
+      <GoodCount>120</GoodCount>
+      <NormalCount>31</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050801-Reviews-Hanting_Express_Shanghai_Changshou-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭长寿店</Name>
+    <Star />
+    <Ranking>383</Ranking>
+    <Locality>Changshou Road</Locality>
+    <Location>31.24328,121.44601</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>79</CommentCount>
+      <ExcellentCount>13</ExcellentCount>
+      <GoodCount>55</GoodCount>
+      <NormalCount>11</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1656001-Reviews-Jinjiang_Inn_Shanghai_Qingpu-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星青浦店</Name>
+    <Star />
+    <Ranking>385</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.15396,121.11174</Location>
+    <NumberOfRooms>107</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>56</CommentCount>
+      <ExcellentCount>11</ExcellentCount>
+      <GoodCount>37</GoodCount>
+      <NormalCount>7</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1626277-Reviews-Motel_168_Shanghai_Dongchuansah_Subway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168浦东川沙地铁站店</Name>
+    <Star />
+    <Ranking>388</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.184488,121.70046</Location>
+    <NumberOfRooms>152</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>37</CommentCount>
+      <ExcellentCount>4</ExcellentCount>
+      <GoodCount>16</GoodCount>
+      <NormalCount>15</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1625894-Reviews-Motel_168_Shanghai_Pudong_South_Road_Babaiban-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168浦东南路八佰伴店</Name>
+    <Star />
+    <Ranking>392</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.217905,121.51853</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>95</CommentCount>
+      <ExcellentCount>14</ExcellentCount>
+      <GoodCount>52</GoodCount>
+      <NormalCount>24</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>2</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d611584-Reviews-Home_Inn_Shanghai_Stadium_Xujiahui_Subway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海如家体育馆徐家汇地铁站店</Name>
+    <Star />
+    <Ranking>397</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.187107,121.43312</Location>
+    <NumberOfRooms>116</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>185</CommentCount>
+      <ExcellentCount>18</ExcellentCount>
+      <GoodCount>109</GoodCount>
+      <NormalCount>48</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>4</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1409630-Reviews-7_Days_Inn_Shanghai_Guangda-Shanghai.html</PrimaryKey>
+    <Name>7天上海光大会展中心店</Name>
+    <Star />
+    <Ranking>399</Ranking>
+    <Locality>Everbright Convention and Exhibition Center</Locality>
+    <Location>31.16285,121.42697</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>120</CommentCount>
+      <ExcellentCount>16</ExcellentCount>
+      <GoodCount>72</GoodCount>
+      <NormalCount>27</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>3</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1761448-Reviews-7_Days_Inn_Shanghai_North_Bund-Shanghai.html</PrimaryKey>
+    <Name>7天上海北外滩店</Name>
+    <Star />
+    <Ranking>401</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.25245,121.4988</Location>
+    <NumberOfRooms>87</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>48</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>20</GoodCount>
+      <NormalCount>6</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407819-Reviews-Green_Tree_Inn_Shanghai_Changfeng_Park_Shell_Apartment_Hotel-Shanghai.html</PrimaryKey>
+    <Name>格林豪泰上海长风公园贝壳公寓酒店</Name>
+    <Star />
+    <Ranking>404</Ranking>
+    <Locality>Caoyang / Zhenru</Locality>
+    <Location>31.23426,121.4023</Location>
+    <NumberOfRooms>311</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>219</CommentCount>
+      <ExcellentCount>27</ExcellentCount>
+      <GoodCount>119</GoodCount>
+      <NormalCount>58</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>6</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>7</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1239281-Reviews-Home_Inn_Shanghai_Hongqiao_Airport_Wuzhong_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家虹桥七宝吴中路店</Name>
+    <Star />
+    <Ranking>409</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.1633,121.34917</Location>
+    <NumberOfRooms>82</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>127</CommentCount>
+      <ExcellentCount>19</ExcellentCount>
+      <GoodCount>65</GoodCount>
+      <NormalCount>36</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050517-Reviews-Motel_168_Shanghai_Siping_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168北外滩四平路店</Name>
+    <Star />
+    <Ranking>411</Ranking>
+    <Locality>虹口区</Locality>
+    <Location>31.26608,121.49152</Location>
+    <NumberOfRooms />
+    <PrimaryCommentData>
+      <CommentCount>199</CommentCount>
+      <ExcellentCount>19</ExcellentCount>
+      <GoodCount>110</GoodCount>
+      <NormalCount>51</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>10</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050812-Reviews-Jinjiang_Inn_Shanghai_Jing_an_Temple_Jiaozhou_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星静安寺胶州路酒店</Name>
+    <Star />
+    <Ranking>418</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.22953,121.44274</Location>
+    <NumberOfRooms>82</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>123</CommentCount>
+      <ExcellentCount>15</ExcellentCount>
+      <GoodCount>83</GoodCount>
+      <NormalCount>20</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1581222-Reviews-Jingyue_99_Inn_Shanghai_Jiangzhen-Shanghai.html</PrimaryKey>
+    <Name>上海景悦99客栈江镇店</Name>
+    <Star />
+    <Ranking>422</Ranking>
+    <Locality>Pudong International Airport</Locality>
+    <Location>31.18697,121.7414</Location>
+    <NumberOfRooms>54</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>66</CommentCount>
+      <ExcellentCount>12</ExcellentCount>
+      <GoodCount>30</GoodCount>
+      <NormalCount>19</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>4</CoupleCat>
+      <SoloCat>14</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050897-Reviews-Jinjiang_Inn_Shanghai_Xinzhuang-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星莘庄店</Name>
+    <Star />
+    <Ranking>425</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.11231,121.38511</Location>
+    <NumberOfRooms>148</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>189</CommentCount>
+      <ExcellentCount>27</ExcellentCount>
+      <GoodCount>132</GoodCount>
+      <NormalCount>21</NormalCount>
+      <BadCount>7</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>9</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1412292-Reviews-Home_Inn_Shanghai_Changshou_Road_Subway_Station-Shanghai.html</PrimaryKey>
+    <Name>上海如家长寿路地铁站店</Name>
+    <Star />
+    <Ranking>431</Ranking>
+    <Locality>Changshou Road</Locality>
+    <Location>31.23844,121.43198</Location>
+    <NumberOfRooms>122</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>144</CommentCount>
+      <ExcellentCount>25</ExcellentCount>
+      <GoodCount>86</GoodCount>
+      <NormalCount>27</NormalCount>
+      <BadCount>3</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050781-Reviews-Jinjiang_Inn_Shanghai_Changning-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星长宁店</Name>
+    <Star />
+    <Ranking>433</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>31.2173,121.4072</Location>
+    <NumberOfRooms>113</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>135</CommentCount>
+      <ExcellentCount>22</ExcellentCount>
+      <GoodCount>90</GoodCount>
+      <NormalCount>21</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>1</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310733-Reviews-Jinjiang_Inn_Shanghai_Wanping_South_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星宛平南路店</Name>
+    <Star />
+    <Ranking>434</Ranking>
+    <Locality>Xujiahui</Locality>
+    <Location>31.19067,121.44775</Location>
+    <NumberOfRooms>130</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>109</CommentCount>
+      <ExcellentCount>12</ExcellentCount>
+      <GoodCount>77</GoodCount>
+      <NormalCount>18</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310728-Reviews-Jinjiang_Inn_Shanghai_World_Expo-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星世博店</Name>
+    <Star />
+    <Ranking>435</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.15732,121.49399</Location>
+    <NumberOfRooms>172</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>97</CommentCount>
+      <ExcellentCount>9</ExcellentCount>
+      <GoodCount>65</GoodCount>
+      <NormalCount>23</NormalCount>
+      <BadCount>0</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1491508-Reviews-Home_Inn_Shanghai_Expo_South_Waitan_Nanpu_Bridge-Shanghai.html</PrimaryKey>
+    <Name>上海如家世博外滩南浦大桥店</Name>
+    <Star />
+    <Ranking>437</Ranking>
+    <Locality>南外滩</Locality>
+    <Location>31.21186,121.50648</Location>
+    <NumberOfRooms>70</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>115</CommentCount>
+      <ExcellentCount>14</ExcellentCount>
+      <GoodCount>76</GoodCount>
+      <NormalCount>14</NormalCount>
+      <BadCount>9</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>0</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614337-Reviews-Golden_Island_Hotel_Shanghai-Shanghai.html</PrimaryKey>
+    <Name>黄金岛大酒店</Name>
+    <Star />
+    <Ranking>441</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.19924,121.48595</Location>
+    <NumberOfRooms>100</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>68</CommentCount>
+      <ExcellentCount>7</ExcellentCount>
+      <GoodCount>29</GoodCount>
+      <NormalCount>23</NormalCount>
+      <BadCount>5</BadCount>
+      <VeryBadCount>3</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614793-Reviews-Home_Inn_Shanghai_Pudong_Nanpu_Bridge_Tangqiao_Commercial_Plaza-Shanghai.html</PrimaryKey>
+    <Name>上海如家浦东南浦大桥塘桥商业广场店</Name>
+    <Star />
+    <Ranking>443</Ranking>
+    <Locality>World Expo</Locality>
+    <Location>31.21145,121.51524</Location>
+    <NumberOfRooms>124</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>187</CommentCount>
+      <ExcellentCount>21</ExcellentCount>
+      <GoodCount>107</GoodCount>
+      <NormalCount>51</NormalCount>
+      <BadCount>6</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1407785-Reviews-Hanting_Express_Shanghai_Yan_an_West_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭延安西路店</Name>
+    <Star />
+    <Ranking>445</Ranking>
+    <Locality>中山公园</Locality>
+    <Location>31.20925,121.41952</Location>
+    <NumberOfRooms>439</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>192</CommentCount>
+      <ExcellentCount>34</ExcellentCount>
+      <GoodCount>117</GoodCount>
+      <NormalCount>27</NormalCount>
+      <BadCount>10</BadCount>
+      <VeryBadCount>4</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>3</CoupleCat>
+      <SoloCat>4</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1310729-Reviews-Jinjiang_Inn_Shanghai_Gonghexin_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星共和新路店</Name>
+    <Star />
+    <Ranking>450</Ranking>
+    <Locality>Life Hub DANING</Locality>
+    <Location>31.2654,121.45878</Location>
+    <NumberOfRooms>170</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>112</CommentCount>
+      <ExcellentCount>13</ExcellentCount>
+      <GoodCount>80</GoodCount>
+      <NormalCount>16</NormalCount>
+      <BadCount>1</BadCount>
+      <VeryBadCount>2</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>2</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d586834-Reviews-Jinjiang_Inn_Shanghai_Nanjing_Road_Pedestrian_Street-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星南京路步行街店</Name>
+    <Star />
+    <Ranking>451</Ranking>
+    <Locality>人民广场</Locality>
+    <Location>31.23535,121.47746</Location>
+    <NumberOfRooms>220</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>190</CommentCount>
+      <ExcellentCount>23</ExcellentCount>
+      <GoodCount>103</GoodCount>
+      <NormalCount>37</NormalCount>
+      <BadCount>14</BadCount>
+      <VeryBadCount>13</VeryBadCount>
+      <FamilyCat>12</FamilyCat>
+      <CoupleCat>12</CoupleCat>
+      <SoloCat>10</SoloCat>
+      <BusinessCat>6</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1448464-Reviews-Jinjiang_Inn_Shanghai_Henglong_Plaza-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星恒隆广场店</Name>
+    <Star />
+    <Ranking>458</Ranking>
+    <Locality>静安区</Locality>
+    <Location>31.232475,121.44874</Location>
+    <NumberOfRooms>147</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>106</CommentCount>
+      <ExcellentCount>15</ExcellentCount>
+      <GoodCount>67</GoodCount>
+      <NormalCount>22</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>1</FamilyCat>
+      <CoupleCat>2</CoupleCat>
+      <SoloCat>1</SoloCat>
+      <BusinessCat>4</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048698-Reviews-Hanting_Express_Shanghai_Lujiazui_Software_Park-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭陆家嘴软件园店</Name>
+    <Star />
+    <Ranking>460</Ranking>
+    <Locality>HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=utf-8"/&gt;
+&lt;link rel="icon" id="favicon" href="http://cc.ddcdn.com/favicon.ico" type="image/x-icon"/&gt;
+&lt;link rel="mask-icon" sizes="any" href="http://cc.ddcdn.com/img2/icons/ta_square.svg" color="#589442"/&gt;
+&lt;script&gt;(function(){
+var q={d:[],r:[],c:[],t:[],v:[]};
+var r = window.require = function() {q.r.push(arguments);};
+r.config = function() {q.c.push(arguments);}
+r.taConfig = function() {q.t.push(arguments);}
+r.taVer = function(v) {q.v.push(v);}
+window.getRequireJSQueue = function() {return q;}
+})();</Locality>
+    <Location>31.21458,121.531425</Location>
+    <NumberOfRooms>230</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>175</CommentCount>
+      <ExcellentCount>19</ExcellentCount>
+      <GoodCount>105</GoodCount>
+      <NormalCount>46</NormalCount>
+      <BadCount>4</BadCount>
+      <VeryBadCount>1</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>1</CoupleCat>
+      <SoloCat>0</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1602030-Reviews-7_Days_Inn_Shanghai_Tianshan_Road-Shanghai.html</PrimaryKey>
+    <Name>7天上海天山路店</Name>
+    <Star />
+    <Ranking>461</Ranking>
+    <Locality>古北 / 虹桥 / 闵行</Locality>
+    <Location>,</Location>
+    <NumberOfRooms>101</NumberOfRooms>
+    <PrimaryCommentData>
+      <CommentCount>90</CommentCount>
+      <ExcellentCount>15</ExcellentCount>
+      <GoodCount>58</GoodCount>
+      <NormalCount>15</NormalCount>
+      <BadCount>2</BadCount>
+      <VeryBadCount>0</VeryBadCount>
+      <FamilyCat>0</FamilyCat>
+      <CoupleCat>0</CoupleCat>
+      <SoloCat>2</SoloCat>
+      <BusinessCat>5</BusinessCat>
+    </PrimaryCommentData>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1412280-Reviews-Shanghai_Eager_Hotel-Shanghai.html</PrimaryKey>
+    <Name>宜嘉酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050894-Reviews-Jinjiang_Inn_Shanghai_Oriental_Pearl_Tower-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海东方明珠店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1448485-Reviews-Jinjiang_Inn_Shanghai_Xinjinqiao-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星新金桥路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d817028-Reviews-Motel_168_Shanghai_Jingling_Road-Shanghai.html</PrimaryKey>
+    <Name>莫泰168上海金陵路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d639055-Reviews-Jiahe_Shangju_Hotel-Shanghai.html</PrimaryKey>
+    <Name>佳和上居酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1052747-Reviews-Motel_168_Shanghai_The_Bund-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168外滩店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1936242-Reviews-Hanting_Express_Shanghai_Lujiazui_Minsheng_Road-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭陆家嘴民生路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614779-Reviews-Home_Inn_Shanghai_Lu_Xun_Park_Hongkou_Football_Stadium-Shanghai.html</PrimaryKey>
+    <Name>上海如家鲁迅公园虹口足球场店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1790354-Reviews-Jitai_Hotel_Shanghai_Siping_Road_Tongji_University-Shanghai.html</PrimaryKey>
+    <Name>上海吉泰酒店四平路同济大学店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1822575-Reviews-7_Days_Inn_Shanghai_Nanjing_Road_Pedestrian_Street-Shanghai.html</PrimaryKey>
+    <Name>7天上海南京路步行街店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402351-Reviews-Jinjiang_Inn_Shanghai_Wujiaochang_Guoquan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星五角场国权路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050810-Reviews-Jinjiang_Inn_Shanghai_Jinqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星金桥路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1420757-Reviews-Home_Inn_Shanghai_Pudong_South_Road_Shibo-Shanghai.html</PrimaryKey>
+    <Name>上海如家浦东南路世博店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d786968-Reviews-Motel_168_Shanghai_Wuzhong_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168吴中路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050809-Reviews-Jinjiang_Inn_Shanghai_Pudong_Airport-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海浦东机场店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1487437-Reviews-Home_Inn_Shanghai_North_Bund_Zhoujiazui_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家北外滩周家嘴路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d596553-Reviews-Motel_168_Shanghai_Jing_ansi-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168静安寺店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1682051-Reviews-Jinjiang_Inn_Shanghai_Minhang_Dongchuan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星闵行东川路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1215608-Reviews-Home_Inn_Shanghai_Zhongshan_Park_Yan_an_West_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家中山公园延安西路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050788-Reviews-Jinjiang_Inn_Shanghai_New_International_Expo_Center-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星新国际博览中心店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048460-Reviews-Baolong_Homelike_Hotel_Hongqiao-Shanghai.html</PrimaryKey>
+    <Name>上海宝隆居家旅店虹桥店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d312445-Reviews-Motel_168_Shanghai_Jinqiao-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168浦东新金桥路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1234615-Reviews-Hanting_Express_Shanghai_Zhongshan_Park-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭中山公园店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050524-Reviews-Motel_168_Shanghai_Hutai_Road-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168沪太路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1756652-Reviews-Super_8_Shanghai_Qibao_Old_Street-Shanghai.html</PrimaryKey>
+    <Name>上海速8七宝老街店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1567733-Reviews-Bestay_Hotel_Express_Shanghai_Pusan_Road-Shanghai.html</PrimaryKey>
+    <Name>百时快捷酒店上海世博园区浦三路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1448465-Reviews-Jinjiang_Inn_Shanghai_Xujing-Shanghai.html</PrimaryKey>
+    <Name>锦江之星上海徐泾店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1221364-Reviews-Jinjiang_MetroPolo_Hotel_Shanghai_Tongji_University-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星同济大学店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d597834-Reviews-Hanting_Hi_Inn_Shanghai_Xintiandi-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭海友客栈新天地店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d657620-Reviews-Motel_168_Shanghai_Chifeng_Road-Shanghai.html</PrimaryKey>
+    <Name>莫泰168酒店上海赤峰路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1591866-Reviews-7_Days_Inn_Shanghai_Hongqiao_Airport-Shanghai.html</PrimaryKey>
+    <Name>7天上海虹桥机场店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1239271-Reviews-Yitel_Hotel_Shanghai_Zhongshan_Park-Shanghai.html</PrimaryKey>
+    <Name>上海和颐酒店中山公园</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1946422-Reviews-Motel_168_Shanghai_Pudong_Jinqiao_Road-Shanghai.html</PrimaryKey>
+    <Name>莫泰168酒店上海浦东金桥路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1464577-Reviews-Home_Inn_Shanghai_Lujiazui_Dongfang_Road-Shanghai.html</PrimaryKey>
+    <Name>如家快捷上海陆家嘴浦东南路峨山路创意园区店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1049498-Reviews-Jinjiang_Inn_Shanghai_Xinsong_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星莘松路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1491349-Reviews-Home_Inn_Shanghai_Chuansha_Xinchuan_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家川沙新川路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050916-Reviews-GreenTree_Inn_Shanghai_Yan_an_Middle_Road-Shanghai.html</PrimaryKey>
+    <Name>格林豪泰上海延安中路快捷酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050526-Reviews-Motel_168_Shanghai_Shuansha_Road-Shanghai.html</PrimaryKey>
+    <Name>莫泰168上海浦东机场川沙路金汇广场店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1402357-Reviews-Jinjiang_Inn_Shanghai_Jujin_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星俱进路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048719-Reviews-Home_Inn_Shanghai_Damuqiao-Shanghai.html</PrimaryKey>
+    <Name>上海如家大木桥店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1409680-Reviews-Motel_168_Shanghai_Qibao-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168七宝店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1511728-Reviews-Jinjiang_Inn_Shanghai_Xuhui_Jiaotong_University-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星徐汇交大店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d611586-Reviews-Home_Inn_Shanghai_Gonghe_New_Road_Zhabei_Park-Shanghai.html</PrimaryKey>
+    <Name>上海共和新路大宁国际茶城店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614775-Reviews-Home_Inn_Shanghai_Zhongshan_Park_Chang_Ning-Shanghai.html</PrimaryKey>
+    <Name>上海如家中山公园长宁店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d2027036-Reviews-Jinjiang_Inn_Shanghai_Maotai_Road-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星茅台路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1494769-Reviews-Super_8_Shanghai_Hongfangzi-Shanghai.html</PrimaryKey>
+    <Name>上海速8红房子店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d3742602-Reviews-Motel_168_Shanghai_Nanjing_Renmin_Square-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168南京路人民广场店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1238631-Reviews-Hanting_Express_Shanghai_Zhabei_Park-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭闸北公园店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1050814-Reviews-Jinjiang_Inn_Shanghai_Yangpu_Bridge-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星杨浦大桥店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1494940-Reviews-Motel_268_Shanghai_Hongqiao_Development_Zone-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰268虹桥开发区店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1307973-Reviews-GreenTree_Inn_Shanghai_Hongqiao_Airport_Apartment_Hotel-Shanghai.html</PrimaryKey>
+    <Name>格林豪泰上海虹桥机场公寓酒店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048970-Reviews-Jinjiang_Inn_Shanghai_Lingang_Xincheng-Shanghai.html</PrimaryKey>
+    <Name>上海锦江之星临港新城店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1563509-Reviews-Home_Inn_Shanghai_Railway_South_Station_Hongmei_South_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家南站虹梅南路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1048863-Reviews-Motel_168_Shanghai_Hongqiao_Shu_niu-Shanghai.html</PrimaryKey>
+    <Name>上海莫泰168虹桥枢纽店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1487438-Reviews-Home_Inn_Shanghai_Bund_Center-Shanghai.html</PrimaryKey>
+    <Name>上海如家外滩中心店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d1674767-Reviews-Home_Inn_Shanghai_Xujiahui_Wanping_South_Road-Shanghai.html</PrimaryKey>
+    <Name>上海如家徐家汇宛平南路店</Name>
+  </HotelData>
+  <HotelData>
+    <PrimaryKey>http://www.tripadvisor.cn/Hotel_Review-g308272-d614880-Reviews-Hanting_Express_Shanghai_Wantiguan_West-Shanghai.html</PrimaryKey>
+    <Name>上海汉庭万体馆西店</Name>
+  </HotelData>
+</ArrayOfHotelData>

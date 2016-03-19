@@ -1,0 +1,17 @@
+ForeignName;ForeignKey;Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;
+;http://hotels.ctrip.com/hotel/dianping/533717.html#ctm_ref=hod_sr_lst_dl_c_1_1;;;;;;;;;
+锦江之星（上海外滩滨江店）;http://hotels.ctrip.com/hotel/dianping/533717.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;1748;1709;39;;;2011;121;
+锦江之星（上海四川北路店）;http://hotels.ctrip.com/hotel/dianping/643492.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;489;473;16;;;2004;89;
+;http://hotels.ctrip.com/hotel/dianping/449133.html#ctm_ref=hod_sr_lst_dl_c_1_1;;;;;;;;;
+锦江之星（上海陆家嘴店）;http://hotels.ctrip.com/hotel/dianping/449133.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;1586;1517;69;;;2008;247;
+锦江之星（上海松江大学城店）;http://hotels.ctrip.com/hotel/dianping/640509.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;915;889;26;;;2008;153;
+;http://hotels.ctrip.com/hotel/dianping/501623.html#ctm_ref=hod_sr_lst_dl_c_1_1;;;;;;;;;
+锦江之星（上海北外滩店）;http://hotels.ctrip.com/hotel/dianping/501623.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;1352;1313;39;;;2006;187;
+锦江之星（上海真北店）;http://hotels.ctrip.com/hotel/dianping/643308.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;659;623;36;;;2004;193;
+锦江之星品尚（上海新虹桥店）;http://hotels.ctrip.com/hotel/dianping/450855.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;2265;2197;68;;;2007;481;
+锦江之星（上海虹口足球场店）;http://hotels.ctrip.com/hotel/dianping/481517.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;615;597;18;;;2000;150;
+锦江之星（上海卢湾丽园店）;http://hotels.ctrip.com/hotel/dianping/640500.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;739;728;11;;;2001;139;
+锦江之星（上海人民广场淮海东路店）;http://hotels.ctrip.com/hotel/dianping/924917.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;1815;1785;30;;;2009;159;
+汉庭酒店（上海浦东机场店）;http://hotels.ctrip.com/hotel/dianping/823777.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;1764;1650;114;;;2013;120;
+如家快捷酒店（上海徐家汇光大柳州路店）;http://hotels.ctrip.com/hotel/dianping/1583089.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_halfdiamond02;945;913;32;;;2012;95;
+锦江之星品尚（上海张江高科园区酒店）;http://hotels.ctrip.com/hotel/dianping/1838785.html#ctm_ref=hod_sr_lst_dl_c_1_1;hotel_diamond02;778;760;18;;;2015;147;

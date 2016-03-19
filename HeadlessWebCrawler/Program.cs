@@ -16,6 +16,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Xml.Serialization;
 using HtmlAgilityPack;
+using System.Diagnostics;
 
 namespace HeadlessWebCrawler
 {
@@ -24,12 +25,11 @@ namespace HeadlessWebCrawler
         public static string chromeDriverDirectory = @"C:\CS\Playground\WebCrawler";
         public static string phantomDriverDirectory = @"C:\CS\Playground\WebCrawler\packages\PhantomJS.1.9.2\tools\phantomjs";
         public static IWebDriver Driver;
-        public static int timeout = 25;
-        public static int timeoutLoad = 20;
+        public static int timeoutLoad = 15;
 
-        public static void Reset(int timeout = 15)
+        public static void Reset()
         {
-            Driver = new ChromeDriver(chromeDriverDirectory, new ChromeOptions(), TimeSpan.FromSeconds(timeout));
+            Driver = new ChromeDriver(chromeDriverDirectory, new ChromeOptions(), TimeSpan.FromSeconds(20));
             //Driver = new PhantomJSDriver(phantomDriverDirectory, new PhantomJSOptions(), TimeSpan.FromSeconds(timeout));
         }
 
@@ -48,19 +48,41 @@ namespace HeadlessWebCrawler
 
         static void Main(string[] args)
         {
-            Reset(15);
+            //Setup();
+            //Reset();
 
-            Setup();
+
+            //CLeanData();
 
             //RunPhase0();
             //RunPhase1();
             //RunPhase2();
-            RunPhase3();
-            //ExportData();
+            //while (true)
+            {
+                //var p3 = RunPhase3();
+                ExportData();
 
-            Console.ReadKey();
-            Driver.Close();
-            Driver.Dispose();
+                //Console.ReadKey();
+                //try
+                //{
+                //Driver.Close();
+                //Driver.Dispose();
+                //}
+                //catch (Exception)
+                //{
+
+                //}
+            }
+            try
+            {
+                Console.ReadKey();
+                Driver.Close();
+                Driver.Dispose();
+            }
+            catch (Exception)
+            {
+            }
+           
         }
 
         static void RunPhase0()
@@ -68,7 +90,7 @@ namespace HeadlessWebCrawler
             // 
             var engine = new P0Engine();
             engine.BaseUrl = @"http://www.tripadvisor.cn/Hotels-g308272-Shanghai-Hotels.html";
-            engine.MaxPage = 4;
+            engine.MaxPage = 5;
             engine.Start();
         }
 
@@ -86,35 +108,61 @@ namespace HeadlessWebCrawler
             engine.Start();
         }
 
-        static void RunPhase3()
+        static P3Engine RunPhase3()
         {
             // 
             var engine = new P3Engine();
             engine.Start();
+            return engine;
         }
 
-
-        static void ExportData()
+        static void CLeanData()
         {
-            FileStream fsi = new FileStream(@"C:\Users\sebzh\Desktop\webcrawler\p2.txt", FileMode.OpenOrCreate);
+            FileStream fsi = new FileStream(@"p0.txt", FileMode.OpenOrCreate);
             var serializer = new XmlSerializer(typeof(List<HotelData>));
             var data = serializer.Deserialize(fsi) as List<HotelData>;
             fsi.Close();
-            var path = @"C:\Users\sebzh\Desktop\webcrawler\p3.txt";
-            if (File.Exists(path))
+
+            var cleanData = new List<HotelData>();
+            foreach (var d in data)
             {
-                File.Delete(path);
+                if (!cleanData.Any(x => x.Name == d.Name))
+                {
+                    cleanData.Add(d);
+                }
+            }
+
+            FileStream fsi2 = new FileStream(@"p0c.txt", FileMode.OpenOrCreate);
+            serializer.Serialize(fsi2, cleanData);
+            fsi2.Close();
+        }
+
+        static void ExportData()
+        {
+            FileStream fsi = new FileStream(@"p2.txt", FileMode.OpenOrCreate);
+            var serializer = new XmlSerializer(typeof(List<HotelData>));
+            var data = serializer.Deserialize(fsi) as List<HotelData>;
+            fsi.Close();
+            var path1 = @"p3-1.txt";
+            var path2 = @"p3-2.txt";
+            if (File.Exists(path1))
+            {
+                File.Delete(path1);
             }
 
             //Create the file.
             var separator = ";";
-            using (FileStream fs = File.Create(path))
+            using (FileStream fs = File.Create(path1))
             {
-                AddText(fs, "Name;CTripUrl;Star;Ranking;Locality;Location;TCommentCount;TExcellentCount;TGoodCount;TNormalCount;TBadCount;TVeryBadCount;TFamilyCat;TCoupleCat;TSoloCat;TBusinessCat;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
+                AddText(fs, "Name;ForeignKey;Star;Ranking;Locality;Location;TCommentCount;TExcellentCount;TGoodCount;TNormalCount;TBadCount;TVeryBadCount;TFamilyCat;TCoupleCat;TSoloCat;TBusinessCat;\r\n");
                 foreach (var hotelData in data)
                 {
+                    if (hotelData.PrimaryCommentData == null)
+                        continue;
+
                     AddText(fs, hotelData.Name + separator);
-                    AddText(fs, $"http://hotels.ctrip.com/hotel/shanghai2/k1{hotelData.Name}#ctm_ref=hod_hp_sb_lst" + separator);
+                    AddText(fs, hotelData.ForeignKey + separator);
+                    //AddText(fs, $"http://hotels.ctrip.com/hotel/shanghai2/k1{hotelData.Name}#ctm_ref=hod_hp_sb_lst" + separator);
                     double star;
                     if (double.TryParse(hotelData.Star, out star))
                     {
@@ -137,25 +185,54 @@ namespace HeadlessWebCrawler
                     AddText(fs, hotelData.PrimaryCommentData.CoupleCat + separator);
                     AddText(fs, hotelData.PrimaryCommentData.SoloCat + separator);
                     AddText(fs, hotelData.PrimaryCommentData.BusinessCat + separator);
-                    if (hotelData.ForeignCommentData != null)
+                    AddText(fs, "\r\n");
+                }
+            }
+
+            if (File.Exists(path2))
+            {
+                File.Delete(path2);
+            }
+
+            FileStream fsi2 = new FileStream(@"p3.txt", FileMode.Open);
+            var serializer2 = new XmlSerializer(typeof(List<ForeignCommentData>));
+            var data2 = serializer2.Deserialize(fsi2) as List<ForeignCommentData>;
+            fsi2.Close();
+
+            using (FileStream fs = File.Create(path2))
+            {
+                AddText(fs, "ForeignName;ForeignKey;Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
+                foreach (var d in data2)
+                {
+
+                    if (data != null)
                     {
-                        AddText(fs, hotelData.ForeignCommentData.CommentCount + separator);
-                        AddText(fs, hotelData.ForeignCommentData.RecommendCommentCount + separator);
-                        AddText(fs, hotelData.ForeignCommentData.NeedToImproveCommentCount + separator);
-                        AddText(fs, hotelData.ForeignCommentData.Score + separator);
-                        AddText(fs, hotelData.ForeignCommentData.Price + separator);
-                        AddText(fs, hotelData.ForeignCommentData.OpenYear + separator);
-                        AddText(fs, hotelData.ForeignCommentData.RoomCount + separator);
+                        AddText(fs, d.ForeignName + separator);
+                        AddText(fs, d.ForeignKey + separator);
+                        AddText(fs, d.Star + separator);
+                        AddText(fs, d.CommentCount + separator);
+                        AddText(fs, d.RecommendCommentCount + separator);
+                        AddText(fs, d.NeedToImproveCommentCount + separator);
+                        AddText(fs, d.Score + separator);
+                        AddText(fs, d.Price + separator);
+                        AddText(fs, d.OpenYear + separator);
+                        AddText(fs, d.RoomCount + separator);
                     }
                     else
                     {
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
                         AddText(fs, separator);
                         AddText(fs, separator);
                     }
                     AddText(fs, "\r\n");
                 }
             }
-
         }
 
         private static void AddText(FileStream fs, string value)
@@ -188,7 +265,6 @@ namespace HeadlessWebCrawler
                     certStore.Close();
                 }
             }
-            Driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(timeoutLoad));
         }
     }
 
@@ -196,11 +272,17 @@ namespace HeadlessWebCrawler
     {
         public int MaxPage { get; set; }
 
+        public override void Start()
+        {
+            Program.Driver.Url = BaseUrl;
+            Program.Driver.Navigate();
+        }
+
         protected override string ToLocation
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p0.txt";
+                return @"p0.txt";
             }
         }
 
@@ -211,13 +293,22 @@ namespace HeadlessWebCrawler
                 throw new NotImplementedException();
             }
         }
-
+        private bool first = true;
         protected override void AfterSessionComplete(Session oSession)
         {
             string responseBody = oSession.GetResponseBodyAsString();
 
             if (responseBody.Contains("<div id=\"ACCOM_OVERVIEW\""))
             {
+                //if(first)
+                //{
+                //    Console.WriteLine("Enter to continue");
+                //    Console.ReadKey();
+                //    Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.F5);
+                //    first = false;
+                //    return;
+                //}
+
                 // get content node
                 HtmlAgilityPack.HtmlDocument htmlDocument = new HtmlAgilityPack.HtmlDocument();
                 htmlDocument.LoadHtml(responseBody);
@@ -262,6 +353,7 @@ namespace HeadlessWebCrawler
                     if (next != null)
                     {
                         next.SendKeys(Keys.Enter);
+                        //SerializeToFile();
                     }
                     else
                     {
@@ -270,9 +362,9 @@ namespace HeadlessWebCrawler
                     }
                 }
             }
-            catch (Exception)
+            catch (Exception e)
             {
-
+                //Debug.Write(e.Message);
             }
 
         }
@@ -286,7 +378,7 @@ namespace HeadlessWebCrawler
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p1.txt";
+                return @"p1.txt";
             }
         }
 
@@ -294,14 +386,14 @@ namespace HeadlessWebCrawler
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p0.txt";
+                return @"p0.txt";
             }
         }
 
         public override void Start()
         {
             DeserializeFromFile();
-            NextIndex = -1;
+            NextIndex = 48;
             NavigateToNext(null);
         }
 
@@ -321,6 +413,7 @@ namespace HeadlessWebCrawler
                 hotelData.PrimaryCommentData = new PrimaryCommentData();
 
                 hotelData.Ranking = ExtractContent(responseBody, "排名第", "（", 0, out lastIndex);
+                hotelData.Star = ExtractContent(responseBody, "property=\"ratingValue\" content=\"", "\"", 0, out lastIndex);
                 hotelData.PrimaryCommentData.CommentCount = ExtractContent(responseBody, "tabs_header reviews_header\">", "条来自猫途鹰", 0, out lastIndex);
                 hotelData.PrimaryCommentData.ExcellentCount = GetCommentCount(responseBody, 5);
                 hotelData.PrimaryCommentData.GoodCount = GetCommentCount(responseBody, 4);
@@ -340,7 +433,6 @@ namespace HeadlessWebCrawler
                 var lon = ExtractContent(responseBody, "data-lng=\"", "\"", lastIndex, out lastIndex);
                 hotelData.Location = $"{lat},{lon}"; // 
                 hotelData.NumberOfRooms = ExtractContent(responseBody, "<span class=\"tabs_num_rooms\"> ", "</", relatedStartIndex, out lastIndex);
-                hotelData.Star = ExtractContent(responseBody, "酒店星级：</span>\"", "星", 0, out lastIndex);
 
                 // navigate to next
                 NavigateToNext(null);
@@ -370,11 +462,15 @@ namespace HeadlessWebCrawler
                 return;
             }
             Console.WriteLine(">> Working on = " + NextIndex);
+            SerializeToFile();
+
             //Program.Driver.Close();
-            //Program.Driver = new ChromeDriver(Program.driverDirectory, new ChromeOptions(), TimeSpan.FromSeconds(Program.timeout));
+            //Program.Reset();
+            //Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
             var next = Data[NextIndex].PrimaryKey;
             Program.Driver.Url = next;
             Program.Driver.Navigate();
+
         }
     }
 
@@ -386,7 +482,7 @@ namespace HeadlessWebCrawler
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p2.txt";
+                return @"p2.txt";
             }
         }
 
@@ -394,7 +490,7 @@ namespace HeadlessWebCrawler
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p1.txt";
+                return @"p2.txt";
             }
         }
 
@@ -410,7 +506,19 @@ namespace HeadlessWebCrawler
         {
 
             string responseBody = oSession.GetResponseBodyAsString();
-            if (responseBody.Contains("searchresult_info"))
+            if (responseBody.Contains("很抱歉，暂时无法找到符合您要求的酒店"))
+            {
+                try
+                {
+                    // navigate to next
+                    NavigateToNext(null);
+
+                }
+                catch (Exception)
+                {
+                }
+            }
+            else if (responseBody.Contains("searchresult_info"))
             {
                 //hotelPositionJSON
                 int lastIndex;
@@ -438,99 +546,7 @@ namespace HeadlessWebCrawler
                 }
 
             }
-            else if (responseBody.Contains("很抱歉，暂时无法找到符合您要求的酒店"))
-            {
-                try
-                {
-                    // navigate to next
-                    NavigateToNext(null);
 
-                }
-                catch (Exception)
-                {
-                }
-            }
-            else if (false)
-            {
-
-
-                //else if (responseBody.Contains("hotelPositionJSON"))
-                //{
-                //    int startIndex;
-                //    int lastIndex;
-                //    //<a data-dopost="T" class="hotel_judge" href="
-                //    ExtractContent(responseBody, "hotelPositionJSON", ":", 0, out startIndex);
-                //    var commentsLink = "http://hotels.ctrip.com" + ExtractContent(responseBody, "url\":\"", "\"", startIndex, out lastIndex);
-                //    //Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Control + "n");
-                //    try
-                //    {
-                //        Program.Driver.Navigate().GoToUrl(commentsLink);
-                //    }
-                //    catch (Exception)
-                //    {
-
-                //    }
-                //}
-
-                if (responseBody.Contains("年开业"))
-                {
-                    var hotelData = Data[NextIndex];
-
-                    var details = responseBody;
-                    var openIndexEnd = details.IndexOf("年开业");
-                    var roomIndexEnd = details.IndexOf("间房");
-                    if (hotelData.ForeignCommentData == null)
-                    {
-                        hotelData.ForeignCommentData = new ForeignCommentData();
-                    }
-                    if (openIndexEnd > -1)
-                    {
-                        var start = details.LastIndexOf(">", openIndexEnd) + 2;
-                        hotelData.ForeignCommentData.OpenYear = details.Substring(start, openIndexEnd - start).Trim();
-                    }
-                    if (roomIndexEnd > -1)
-                    {
-                        var start = details.LastIndexOf(";", roomIndexEnd) + 1;
-                        hotelData.ForeignCommentData.RoomCount = details.Substring(start, roomIndexEnd - start);
-                    }
-
-                    Console.WriteLine("Got rooms!");
-
-                }
-                if (responseBody.Contains(">全部(") && responseBody.Contains(">值得推荐("))
-                {
-                    int lastIndex;
-                    var basicData = ExtractContent(responseBody, ">全部(", "\"", 0, out lastIndex);
-                    if (basicData == "")
-                        return;
-
-                    var hotelData = Data[NextIndex];
-                    //<span class="price">
-                    //All_Comment">全部(
-                    //commentType=1">值得推荐(
-                    //commentType=2">有待改善(
-                    //<p class="s_row"><span class="score">
-                    //<li id="bookTab" class=""><a href=" "
-
-                    // crawler
-                    if (hotelData.ForeignCommentData == null)
-                    {
-                        hotelData.ForeignCommentData = new ForeignCommentData();
-                    }
-                    hotelData.ForeignCommentData.CommentCount = ExtractContent(responseBody, ">全部(", ")", 0, out lastIndex);
-                    hotelData.ForeignCommentData.RecommendCommentCount = ExtractContent(responseBody, ">值得推荐(", ")", 0, out lastIndex);
-                    hotelData.ForeignCommentData.NeedToImproveCommentCount = ExtractContent(responseBody, ">有待改善(", ")", 0, out lastIndex);
-                    hotelData.ForeignCommentData.Score = ExtractContent(responseBody, "<p class=\"s_row\"><span class=\"score\">", "<", 0, out lastIndex);
-
-                    var test = ExtractContent(responseBody, "htl_room_txt text_3l ", "<div class=\"introduce_all layoutfix \">", 0, out lastIndex);
-
-                    Console.WriteLine("Got comments!");
-
-                    // navigate to next
-                    NavigateToNext(null);
-                }
-
-            }
         }
 
         protected override void NavigateToNext(HtmlDocument document)
@@ -576,12 +592,13 @@ namespace HeadlessWebCrawler
     class P3Engine : Engine
     {
         private int NextIndex;
-        private const int StartIndex = -1;
+        private int StartIndex = -1;
+        private bool locked = false;
         protected override string ToLocation
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p2.txt";
+                return @"p3.txt";
             }
         }
 
@@ -589,7 +606,7 @@ namespace HeadlessWebCrawler
         {
             get
             {
-                return @"C:\Users\sebzh\Desktop\webcrawler\p2.txt";
+                return @"p2.txt";
             }
         }
 
@@ -600,33 +617,67 @@ namespace HeadlessWebCrawler
             NavigateToNext(null);
         }
 
+
+        protected override void DeserializeFromFile()
+        {
+            base.DeserializeFromFile();
+            FileStream fs = new FileStream(ToLocation, FileMode.OpenOrCreate);
+            var serializer = new XmlSerializer(typeof(List<ForeignCommentData>));
+            ForeignComments = serializer.Deserialize(fs) as List<ForeignCommentData>;
+            StartIndex = ForeignComments.Count-1;
+        }
+
         private object locker = new object();
+        public List<ForeignCommentData> ForeignComments = new List<ForeignCommentData>();
         protected override void AfterSessionComplete(Session oSession)
         {
+            if (locked)
+                return;
 
             string responseBody = oSession.GetResponseBodyAsString();
+            ForeignCommentData fd;
+            if (ForeignComments.Count <= NextIndex)
+            {
+                fd = new ForeignCommentData();
+                ForeignComments.Add(fd);
+                fd.ForeignKey = Data[NextIndex].ForeignKey;
+            }
+            else
+            {
+                fd = ForeignComments[NextIndex];
+            }
+            if (responseBody.Contains("<link rel=\"canonical\" href=\""))
+            {
+                int lastIndex;
+                fd.ForeignId = ExtractContent(responseBody, "<link rel=\"canonical\" href=\"", "\"", 0, out lastIndex);
+            }
+            if (responseBody.Contains("<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\""))
+            {
+                //<span id="ctl00_MainContentPlaceHolder_commonHead_imgStar" class="
+                int lastIndex;
+                fd.Star = ExtractContent(responseBody, "<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\"", "\"", 0, out lastIndex);
+            }
+            if (responseBody.Contains("<h2 class=\"cn_n\" itemprop=\"name\">"))
+            {
 
-
+                int lastIndex;
+                fd.ForeignName = ExtractContent(responseBody, "<h2 class=\"cn_n\" itemprop=\"name\">", "<", 0, out lastIndex);
+            }
             if (responseBody.Contains("年开业"))
             {
-                var hotelData = Data[NextIndex];
-
                 var details = responseBody;
                 var openIndexEnd = details.IndexOf("年开业");
                 var roomIndexEnd = details.IndexOf("间房");
-                if (hotelData.ForeignCommentData == null)
-                {
-                    hotelData.ForeignCommentData = new ForeignCommentData();
-                }
+
                 if (openIndexEnd > -1)
                 {
                     var start = details.LastIndexOf(">", openIndexEnd) + 2;
-                    hotelData.ForeignCommentData.OpenYear = details.Substring(start, openIndexEnd - start).Trim();
+                    fd.OpenYear = details.Substring(start, openIndexEnd - start).Trim();
                 }
                 if (roomIndexEnd > -1)
                 {
                     var start = details.LastIndexOf(";", roomIndexEnd) + 1;
-                    hotelData.ForeignCommentData.RoomCount = details.Substring(start, roomIndexEnd - start);
+                    fd.RoomCount = details.Substring(start, roomIndexEnd - start);
                 }
 
                 Console.WriteLine("Got rooms!");
@@ -639,30 +690,20 @@ namespace HeadlessWebCrawler
                 if (basicData == "")
                     return;
 
-                var hotelData = Data[NextIndex];
-                //<span class="price">
-                //All_Comment">全部(
-                //commentType=1">值得推荐(
-                //commentType=2">有待改善(
-                //<p class="s_row"><span class="score">
-                //<li id="bookTab" class=""><a href=" "
 
                 // crawler
-                if (hotelData.ForeignCommentData == null)
-                {
-                    hotelData.ForeignCommentData = new ForeignCommentData();
-                }
-                hotelData.ForeignCommentData.CommentCount = ExtractContent(responseBody, ">全部(", ")", 0, out lastIndex);
-                hotelData.ForeignCommentData.RecommendCommentCount = ExtractContent(responseBody, ">值得推荐(", ")", 0, out lastIndex);
-                hotelData.ForeignCommentData.NeedToImproveCommentCount = ExtractContent(responseBody, ">有待改善(", ")", 0, out lastIndex);
-                hotelData.ForeignCommentData.Score = ExtractContent(responseBody, "<p class=\"s_row\"><span class=\"score\">", "<", 0, out lastIndex);
+                fd.CommentCount = ExtractContent(responseBody, ">全部(", ")", 0, out lastIndex);
+                fd.RecommendCommentCount = ExtractContent(responseBody, ">值得推荐(", ")", 0, out lastIndex);
+                fd.NeedToImproveCommentCount = ExtractContent(responseBody, ">有待改善(", ")", 0, out lastIndex);
 
                 var test = ExtractContent(responseBody, "htl_room_txt text_3l ", "<div class=\"introduce_all layoutfix \">", 0, out lastIndex);
 
                 Console.WriteLine("Got comments!");
 
                 // navigate to next
+                locked = true;
                 NavigateToNext(null);
+                locked = false;
             }
 
 
@@ -682,32 +723,37 @@ namespace HeadlessWebCrawler
             return ExtractContent(responseBody, "<div class=\"value\">", "<", lastIndex, out lastIndex);
         }
 
+        private void SerializeToFile2()
+        {
+            Console.WriteLine("Serializing");
+            var serializer = new XmlSerializer(typeof(List<ForeignCommentData>));
+            TextWriter writer = new StreamWriter(ToLocation);
+            serializer.Serialize(writer, ForeignComments);
+            writer.Close();
+        }
+
         protected override void NavigateToNext(HtmlAgilityPack.HtmlDocument document)
         {
             if (++NextIndex == Data.Count)
             {
                 Console.WriteLine("Done");
-                SerializeToFile();
+                SerializeToFile2();
                 return;
             }
             Console.WriteLine(">> Working on = " + NextIndex);
 
             if (NextIndex >= StartIndex + 2)
             {
-                SerializeToFile();
-                try
-                {
-                    Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
-                    Console.WriteLine("Esc...");
+                SerializeToFile2();
+           
+                    //Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
+                    //Console.WriteLine("Esc...");
                     //Program.Reset();
                     //Program.Driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(15));
-                }
-                catch (Exception)
-                {
-                }
+           
             }
             var foreignKey = Data[NextIndex].ForeignKey;
-            if(foreignKey != null)
+            if (foreignKey != null)
             {
                 try
                 {
@@ -724,9 +770,27 @@ namespace HeadlessWebCrawler
                 Console.WriteLine("Skipped!");
                 NavigateToNext(null);
             }
-           
+
             //if(NextIndex>1)
 
+        }
+
+        internal void Navigate()
+        {
+            var foreignKey = Data[++NextIndex].ForeignKey;
+            SerializeToFile2();
+            if (foreignKey != null)
+            {
+                try
+                {
+                    Program.Driver.Url = foreignKey;
+                    Program.Driver.Navigate();
+                    Console.WriteLine("Detail...");
+                }
+                catch (Exception)
+                {
+                }
+            }
         }
     }
 
@@ -780,7 +844,7 @@ namespace HeadlessWebCrawler
             writer.Close();
         }
 
-        protected void DeserializeFromFile()
+        protected virtual void DeserializeFromFile()
         {
             Console.WriteLine("Deserializing");
             FileStream fs = new FileStream(FromLocation, FileMode.OpenOrCreate);
