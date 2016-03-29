@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfForeignCommentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ForeignCommentData>
+    <ForeignId>http://hotels.ctrip.com/hotel/dianping/669098.html</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/669098.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+    <Star>hotel_halfdiamond04</Star>
+    <CommentCount>936</CommentCount>
+    <ForeignName>上海西华酒店</ForeignName>
+    <RecommendCommentCount>847</RecommendCommentCount>
+    <NeedToImproveCommentCount>89</NeedToImproveCommentCount>
+    <OpenYear>2006</OpenYear>
+    <RoomCount>170</RoomCount>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>http://hotels.ctrip.com/hotel/dianping/1250636.html</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1250636.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+    <Star>hotel_halfdiamond02</Star>
+    <CommentCount>907</CommentCount>
+    <ForeignName>7天连锁酒店（上海徐家汇第六人民医院店）</ForeignName>
+    <RecommendCommentCount>811</RecommendCommentCount>
+    <NeedToImproveCommentCount>96</NeedToImproveCommentCount>
+    <OpenYear>2007</OpenYear>
+    <RoomCount>110</RoomCount>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>上海薇爱精品时尚酒店吴中路店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1217137.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+</ArrayOfForeignCommentData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfForeignCommentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ForeignCommentData>
+    <ForeignId>西华酒店公寓</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/669098.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>7天上海徐家汇第六人民医院店</ForeignId>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>上海薇爱精品时尚酒店吴中路店</ForeignId>
+  </ForeignCommentData>
+</ArrayOfForeignCommentData>

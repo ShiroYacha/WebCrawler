@@ -11,8 +11,8 @@ C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\FiddlerCore4.xml
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\HtmlAgilityPack.pdb
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\HtmlAgilityPack.xml
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\WebDriver.xml
-C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.csprojResolveAssemblyReference.cache
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.exe
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.pdb
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\Newtonsoft.Json.dll
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\Newtonsoft.Json.xml
+C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.csprojResolveAssemblyReference.cache

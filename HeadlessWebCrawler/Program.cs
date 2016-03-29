@@ -1,4 +1,6 @@
-﻿using Fiddler;
+﻿#define CHROME
+
+using Fiddler;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using OpenQA.Selenium;
@@ -22,14 +24,18 @@ namespace HeadlessWebCrawler
 {
     class Program
     {
-        public static string chromeDriverDirectory = @"C:\CS\Playground\WebCrawler";
-        public static string phantomDriverDirectory = @"C:\CS\Playground\WebCrawler\packages\PhantomJS.1.9.2\tools\phantomjs";
+        public static string chromeDriverDirectory = AppDomain.CurrentDomain.BaseDirectory;
+        public static string phantomDriverDirectory = AppDomain.CurrentDomain.BaseDirectory;
         public static IWebDriver Driver;
-        public static int timeoutLoad = 15;
+        public static int timeoutLoad = 360;
 
         public static void Reset()
         {
+#if CHROME
             Driver = new ChromeDriver(chromeDriverDirectory, new ChromeOptions(), TimeSpan.FromSeconds(20));
+#else
+            Driver = new ChromeDriver(phantomDriverDirectory, new ChromeOptions(), TimeSpan.FromSeconds(20));
+#endif
             //Driver = new PhantomJSDriver(phantomDriverDirectory, new PhantomJSOptions(), TimeSpan.FromSeconds(timeout));
         }
 
@@ -46,11 +52,8 @@ namespace HeadlessWebCrawler
 
         }
 
-        static void Main(string[] args)
+        static void StaticRunner()
         {
-            Setup();
-            Reset();
-
 
             //CLeanData();
 
@@ -82,7 +85,168 @@ namespace HeadlessWebCrawler
             catch (Exception)
             {
             }
-           
+        }
+
+        static void StartRunner()
+        {
+            int mode = 0;
+            try
+            {
+                Console.WriteLine($"Enter 1 to extract links from CTrip, 2 to extract data from links, 3 to do both, 4 to export xml to excel data");
+                string line = Console.ReadLine()?.Trim();
+                while ((!int.TryParse(line, out mode) || (mode != 1 && mode != 2 && mode != 3 && mode !=4)))
+                {
+                    Console.WriteLine($"The entered number not 1, 2, 3 or 4，please try again:");
+                    line = Console.ReadLine()?.Trim();
+                }
+                if (mode == 1)
+                {
+                    RunStep1();
+                }
+                else if (mode == 2)
+                {
+                    RunStep2();
+                }
+                else if (mode == 3)
+                {
+                    RunStep3();
+                }
+                else if (mode == 4)
+                {
+                    ExportData2();
+                    Console.WriteLine("Done");
+                }
+                Console.ReadKey();
+            }
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            finally
+            {
+                if (mode != 4)
+                {
+                    Driver.Close();
+                    Driver.Dispose();
+                }
+            }
+
+        }
+
+        private static void ExportData2()
+        {
+            FileStream fsi2 = new FileStream(@"p2.txt", FileMode.Open);
+            var serializer2 = new XmlSerializer(typeof(List<ForeignCommentData>));
+            var data2 = serializer2.Deserialize(fsi2) as List<ForeignCommentData>;
+            fsi2.Close();
+            var separator = ";";
+
+            using (FileStream fs = File.Create(@"p3.txt"))
+            {
+                AddText(fs, "ForeignId;ForeignName;ForeignKey;ForeignNameId;Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
+                foreach (var d in data2)
+                {
+
+                    if (d != null)
+                    {
+                        AddText(fs, d.ForeignId + separator);
+                        AddText(fs, d.ForeignName + separator);
+                        AddText(fs, d.ForeignKey + separator);
+                        AddText(fs, d.ForeignNameId + separator);
+                        AddText(fs, d.Star + separator);
+                        AddText(fs, d.CommentCount + separator);
+                        AddText(fs, d.RecommendCommentCount + separator);
+                        AddText(fs, d.NeedToImproveCommentCount + separator);
+                        AddText(fs, d.Score + separator);
+                        AddText(fs, d.Price + separator);
+                        AddText(fs, d.OpenYear + separator);
+                        AddText(fs, d.RoomCount + separator);
+                    }
+                    else
+                    {
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                        AddText(fs, separator);
+                    }
+                    AddText(fs, "\r\n");
+                }
+            }
+        }
+
+        static void RunStep3()
+        {
+            RunStep1();
+            Reset();
+            RunPhase3();
+        }
+
+        static void RunStep2()
+        {
+            Setup();
+            Reset();
+            RunPhase3();
+        }
+
+        static void RunStep1()
+        {
+            // get todos
+            string[] todos;
+            using (var filestream = new FileStream("todo.txt", FileMode.Open))
+            using (var reader = new StreamReader(filestream))
+            {
+                todos = reader.ReadToEnd().Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
+            }
+            // get start point
+            Console.WriteLine("Please enter the index of the starting hotel (empty = 1 to start from first):");
+            int startingHotelIndex = 0;
+            string line = Console.ReadLine()?.Trim();
+            while (!string.IsNullOrWhiteSpace(line) && (!int.TryParse(line, out startingHotelIndex) || startingHotelIndex - 1 < 0 || startingHotelIndex - 1 >= todos.Length))
+            {
+                Console.WriteLine($"The entered number is not correct (too big or too small or not a number)，please try again:");
+                line = Console.ReadLine()?.Trim();
+            }
+            startingHotelIndex--;
+            if (startingHotelIndex < 0)
+                startingHotelIndex = 0;
+
+            // get end point
+            Console.WriteLine("Please enter the index of the ending hotel (empty = end):");
+            int endingHotelIndex = todos.Length;
+            line = Console.ReadLine()?.Trim();
+            while (!string.IsNullOrWhiteSpace(line) && (!int.TryParse(line, out endingHotelIndex) || endingHotelIndex < startingHotelIndex || endingHotelIndex >= todos.Length))
+            {
+                Console.WriteLine($"The entered number is not correct (too big or too small or not a number)，please try again:");
+                line = Console.ReadLine()?.Trim();
+            }
+            endingHotelIndex--;
+
+            // display
+            Console.WriteLine($"Starting from {startingHotelIndex+1} until {endingHotelIndex+1} ...");
+
+
+            // start 
+            Setup();
+            Reset();
+            var engine = new P2Engine()
+            {
+                StartIndex = startingHotelIndex - 1,
+                ListOfTargets = todos.Skip(startingHotelIndex).Take(endingHotelIndex - startingHotelIndex + 1).ToArray()
+            };
+            engine.Start();
+
+        }
+
+        static void Main(string[] args)
+        {
+            StartRunner();
         }
 
         static void RunPhase0()
@@ -108,12 +272,11 @@ namespace HeadlessWebCrawler
             engine.Start();
         }
 
-        static P3Engine RunPhase3()
+        static void RunPhase3()
         {
             // 
             var engine = new P3Engine();
             engine.Start();
-            return engine;
         }
 
         static void CLeanData()
@@ -480,7 +643,10 @@ namespace HeadlessWebCrawler
     class P2Engine : Engine
     {
         private int NextIndex;
-        private const int StartIndex = -1;
+        public int StartIndex = -1;
+        public string[] ListOfTargets;
+        public List<ForeignCommentData> ForeignComments = new List<ForeignCommentData>();
+
         protected override string ToLocation
         {
             get
@@ -499,7 +665,7 @@ namespace HeadlessWebCrawler
 
         public override void Start()
         {
-            DeserializeFromFile();
+            ForeignComments = ListOfTargets.Select(l=>new ForeignCommentData() { ForeignId = l}).ToList();
             NextIndex = StartIndex;
             NavigateToNext(null);
         }
@@ -509,7 +675,7 @@ namespace HeadlessWebCrawler
         {
 
             string responseBody = oSession.GetResponseBodyAsString();
-            if (responseBody.Contains("很抱歉，暂时无法找到符合您要求的酒店"))
+            if (responseBody.Contains("很抱歉，暂时无法找到符合您要求的酒店") && !responseBody.Contains("//    textNoresult.innerHTML = \"<strong>很抱歉，暂时无法找到符合您要求的酒店。</strong>\""))
             {
                 try
                 {
@@ -535,8 +701,8 @@ namespace HeadlessWebCrawler
 
                 try
                 {
-                    var hotelData = Data[NextIndex];
-                    hotelData.ForeignKey = commentsLink;
+                    var fc = ForeignComments[NextIndex];
+                    fc.ForeignKey = commentsLink;
                     //Program.Driver.Navigate().GoToUrl(commentsLink);
 
 
@@ -554,17 +720,18 @@ namespace HeadlessWebCrawler
 
         protected override void NavigateToNext(HtmlDocument document)
         {
-            if (++NextIndex == Data.Count)
+            if (++NextIndex == ForeignComments.Count+1)
             {
                 Console.WriteLine("Done");
-                SerializeToFile();
+                SerializeToFile2();
                 return;
             }
-            Console.WriteLine(">> Working on = " + NextIndex);
+            if(NextIndex>0)
+                Console.WriteLine(">> Working on = " + NextIndex);
 
             if (NextIndex >= StartIndex + 2)
             {
-                SerializeToFile();
+                SerializeToFile2();
                 try
                 {
                     Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
@@ -577,18 +744,36 @@ namespace HeadlessWebCrawler
                 }
             }
 
-            var next = $"http://hotels.ctrip.com/hotel/shanghai2/k1{Data[NextIndex].Name}#ctm_ref=hod_hp_sb_lst";
+            var next = $"http://hotels.ctrip.com/hotel/shanghai2/k1{ForeignComments[NextIndex].ForeignId}#ctm_ref=hod_hp_sb_lst";
             try
             {
 
                 Program.Driver.Url = HttpUtility.UrlPathEncode(next);
                 Program.Driver.Navigate();
-                Console.WriteLine("Detail...");
+                Console.WriteLine("Moving to next...");
             }
             catch (Exception)
             {
             }
             //if(NextIndex>1)
+        }
+
+        protected override void DeserializeFromFile()
+        {
+            base.DeserializeFromFile();
+            FileStream fs = new FileStream(ToLocation, FileMode.OpenOrCreate);
+            var serializer = new XmlSerializer(typeof(List<ForeignCommentData>));
+            ForeignComments = serializer.Deserialize(fs) as List<ForeignCommentData>;
+            StartIndex = ForeignComments.Count - 1;
+        }
+
+        private void SerializeToFile2()
+        {
+            Console.WriteLine("Serializing");
+            var serializer = new XmlSerializer(typeof(List<ForeignCommentData>));
+            TextWriter writer = new StreamWriter(ToLocation);
+            serializer.Serialize(writer, ForeignComments);
+            writer.Close();
         }
     }
 
@@ -596,12 +781,44 @@ namespace HeadlessWebCrawler
     {
         private int NextIndex;
         private int StartIndex = -1;
+        private int CurrentIndex;
         private bool locked = false;
+        private const int TIME_INTERVAL_IN_MILLISECONDS = 20000;
+        private static P3Engine _instance;
+
+        private static Timer _timer;
+
+        public P3Engine()
+        {
+            _instance = this;
+        }
+
+        private static void Callback(object state)
+        {
+            if (_instance.CurrentIndex == _instance.NextIndex)
+            {
+                try
+                {
+                    Console.WriteLine("Renavigating...");
+                    _instance.NavigateAgain();
+                    Console.WriteLine("Renavigated...");
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Renavigate failed...");
+                }
+            }
+            else
+            {
+                _instance.CurrentIndex = _instance.NextIndex;
+            }
+        }
+
         protected override string ToLocation
         {
             get
             {
-                return @"p3.txt";
+                return @"p2.txt";
             }
         }
 
@@ -618,16 +835,17 @@ namespace HeadlessWebCrawler
             DeserializeFromFile();
             NextIndex = StartIndex;
             NavigateToNext(null);
+            CurrentIndex = NextIndex;
+            _timer = new Timer(Callback, null, TIME_INTERVAL_IN_MILLISECONDS, TIME_INTERVAL_IN_MILLISECONDS);
         }
-
 
         protected override void DeserializeFromFile()
         {
-            base.DeserializeFromFile();
             FileStream fs = new FileStream(ToLocation, FileMode.OpenOrCreate);
             var serializer = new XmlSerializer(typeof(List<ForeignCommentData>));
             ForeignComments = serializer.Deserialize(fs) as List<ForeignCommentData>;
-            StartIndex = ForeignComments.Count-1;
+            StartIndex = -1;
+            fs.Close();
         }
 
         private object locker = new object();
@@ -638,21 +856,12 @@ namespace HeadlessWebCrawler
                 return;
 
             string responseBody = oSession.GetResponseBodyAsString();
-            ForeignCommentData fd;
-            if (ForeignComments.Count <= NextIndex)
-            {
-                fd = new ForeignCommentData();
-                ForeignComments.Add(fd);
-                fd.ForeignKey = Data[NextIndex].ForeignKey;
-            }
-            else
-            {
-                fd = ForeignComments[NextIndex];
-            }
+            ForeignCommentData fd = ForeignComments[NextIndex];
+            
             if (responseBody.Contains("<link rel=\"canonical\" href=\""))
             {
                 int lastIndex;
-                fd.ForeignId = ExtractContent(responseBody, "<link rel=\"canonical\" href=\"", "\"", 0, out lastIndex);
+                fd.ForeignNameId = ExtractContent(responseBody, "<link rel=\"canonical\" href=\"", "\"", 0, out lastIndex);
             }
             if (responseBody.Contains("<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\""))
             {
@@ -735,9 +944,16 @@ namespace HeadlessWebCrawler
             writer.Close();
         }
 
+        private void NavigateAgain()
+        {
+            Program.Driver.Url = ForeignComments[NextIndex].ForeignKey;
+            Program.Driver.Navigate();
+
+        }
+
         protected override void NavigateToNext(HtmlAgilityPack.HtmlDocument document)
         {
-            if (++NextIndex == Data.Count)
+            if (++NextIndex == ForeignComments.Count+1)
             {
                 Console.WriteLine("Done");
                 SerializeToFile2();
@@ -748,14 +964,14 @@ namespace HeadlessWebCrawler
             if (NextIndex >= StartIndex + 2)
             {
                 SerializeToFile2();
-           
-                    //Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
-                    //Console.WriteLine("Esc...");
-                    //Program.Reset();
-                    //Program.Driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(15));
-           
+
+                //Program.Driver.FindElement(By.TagName("body")).SendKeys(Keys.Escape);
+                //Console.WriteLine("Esc...");
+                //Program.Reset();
+                //Program.Driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(15));
+
             }
-            var foreignKey = Data[NextIndex].ForeignKey;
+            var foreignKey = ForeignComments[NextIndex].ForeignKey;
             if (foreignKey != null)
             {
                 try
@@ -778,23 +994,6 @@ namespace HeadlessWebCrawler
 
         }
 
-        internal void Navigate()
-        {
-            var foreignKey = Data[++NextIndex].ForeignKey;
-            SerializeToFile2();
-            if (foreignKey != null)
-            {
-                try
-                {
-                    Program.Driver.Url = foreignKey;
-                    Program.Driver.Navigate();
-                    Console.WriteLine("Detail...");
-                }
-                catch (Exception)
-                {
-                }
-            }
-        }
     }
 
 
@@ -853,6 +1052,7 @@ namespace HeadlessWebCrawler
             FileStream fs = new FileStream(FromLocation, FileMode.OpenOrCreate);
             var serializer = new XmlSerializer(typeof(List<HotelData>));
             Data = serializer.Deserialize(fs) as List<HotelData>;
+            fs.Close();
         }
     }
 }
