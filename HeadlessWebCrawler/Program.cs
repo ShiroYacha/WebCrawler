@@ -863,6 +863,18 @@ namespace HeadlessWebCrawler
                 int lastIndex;
                 fd.ForeignNameId = ExtractContent(responseBody, "<link rel=\"canonical\" href=\"", "\"", 0, out lastIndex);
             }
+            if (responseBody.Contains("_commonHead_lnkMapZone"))
+            {
+                int lastIndex;
+                ExtractContent(responseBody, "_commonHead_lnkMapZone", "\"", 0, out lastIndex);
+                fd.ForeignLocation = ExtractContent(responseBody, "target=\"_blank\">", "<", lastIndex, out lastIndex);
+            }
+            if (responseBody.Contains("<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\""))
+            {
+                //<span id="ctl00_MainContentPlaceHolder_commonHead_imgStar" class="
+                int lastIndex;
+                fd.Star = ExtractContent(responseBody, "<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\"", "\"", 0, out lastIndex);
+            }
             if (responseBody.Contains("<span id=\"ctl00_MainContentPlaceHolder_commonHead_imgStar\" class=\""))
             {
                 //<span id="ctl00_MainContentPlaceHolder_commonHead_imgStar" class="

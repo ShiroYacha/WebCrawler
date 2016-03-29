@@ -4,6 +4,7 @@
     <ForeignId>http://hotels.ctrip.com/hotel/dianping/669098.html</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/669098.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
     <Star>hotel_halfdiamond04</Star>
+    <ForeignLocation>徐家汇地区</ForeignLocation>
     <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/669098.html</ForeignNameId>
     <CommentCount>936</CommentCount>
     <ForeignName>上海西华酒店</ForeignName>
@@ -28,6 +29,7 @@
     <ForeignId>http://hotels.ctrip.com/hotel/dianping/1634721.html</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1634721.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
     <Star>hotel_halfdiamond02</Star>
+    <ForeignLocation>静安寺地区</ForeignLocation>
     <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/1634721.html</ForeignNameId>
     <CommentCount>466</CommentCount>
     <ForeignName>汉庭酒店（上海静安寺二店）</ForeignName>

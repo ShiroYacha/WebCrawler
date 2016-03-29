@@ -44,9 +44,9 @@ namespace HeadlessWebCrawler
         public string ForeignId { get; set; }
         public string ForeignKey { get; set; }
 
-
         public string Star { get; set; }
 
+        public string ForeignLocation { get; set; }
         public string ForeignNameId { get; set; }
         public string CommentCount { get; set; }
         public string ForeignName { get; set; }
