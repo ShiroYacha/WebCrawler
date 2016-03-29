@@ -143,7 +143,7 @@ namespace HeadlessWebCrawler
 
             using (FileStream fs = File.Create(@"p3.txt"))
             {
-                AddText(fs, "ForeignId;ForeignName;ForeignKey;ForeignNameId;Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
+                AddText(fs, "ForeignId;ForeignName;ForeignKey;ForeignNameId;ForeignLocation；Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
                 foreach (var d in data2)
                 {
 
@@ -153,6 +153,7 @@ namespace HeadlessWebCrawler
                         AddText(fs, d.ForeignName + separator);
                         AddText(fs, d.ForeignKey + separator);
                         AddText(fs, d.ForeignNameId + separator);
+                        AddText(fs, d.ForeignLocation + separator);
                         AddText(fs, d.Star + separator);
                         AddText(fs, d.CommentCount + separator);
                         AddText(fs, d.RecommendCommentCount + separator);
@@ -164,6 +165,7 @@ namespace HeadlessWebCrawler
                     }
                     else
                     {
+                        AddText(fs, separator);
                         AddText(fs, separator);
                         AddText(fs, separator);
                         AddText(fs, separator);
@@ -925,6 +927,14 @@ namespace HeadlessWebCrawler
                 Console.WriteLine("Got comments!");
 
                 // navigate to next
+                locked = true;
+                NavigateToNext(null);
+                locked = false;
+            }
+            else if(responseBody.Contains("此酒店暂无点评"))
+            {
+                // navigate to next
+                Console.WriteLine("No comments!");
                 locked = true;
                 NavigateToNext(null);
                 locked = false;
