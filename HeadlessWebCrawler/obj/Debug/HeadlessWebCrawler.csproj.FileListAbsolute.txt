@@ -15,4 +15,3 @@ C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.exe
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.pdb
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\Newtonsoft.Json.dll
 C:\CS\Playground\WebCrawler\HeadlessWebCrawler\bin\Debug\Newtonsoft.Json.xml
-C:\CS\Playground\WebCrawler\HeadlessWebCrawler\obj\Debug\HeadlessWebCrawler.csprojResolveAssemblyReference.cache

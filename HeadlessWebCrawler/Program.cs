@@ -143,7 +143,7 @@ namespace HeadlessWebCrawler
 
             using (FileStream fs = File.Create(@"p3.txt"))
             {
-                AddText(fs, "ForeignId;ForeignName;ForeignKey;ForeignNameId;ForeignLocation；Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CScore;CPrice;COpenYear;RoomCount;\r\n");
+                AddText(fs, "ForeignId;ForeignName;ForeignKey;ForeignNameId;ForeignLocation；Star;CCommentCount;CRecommendCommentCount;CNeedToImproveCommentCount;CPrice;COpenYear;RoomCount;\r\n");
                 foreach (var d in data2)
                 {
 
@@ -158,7 +158,6 @@ namespace HeadlessWebCrawler
                         AddText(fs, d.CommentCount + separator);
                         AddText(fs, d.RecommendCommentCount + separator);
                         AddText(fs, d.NeedToImproveCommentCount + separator);
-                        AddText(fs, d.Score + separator);
                         AddText(fs, d.Price + separator);
                         AddText(fs, d.OpenYear + separator);
                         AddText(fs, d.RoomCount + separator);
@@ -239,7 +238,7 @@ namespace HeadlessWebCrawler
             Reset();
             var engine = new P2Engine()
             {
-                StartIndex = startingHotelIndex - 1,
+                StartIndex = - 1,
                 ListOfTargets = todos.Skip(startingHotelIndex).Take(endingHotelIndex - startingHotelIndex + 1).ToArray()
             };
             engine.Start();
@@ -885,9 +884,13 @@ namespace HeadlessWebCrawler
             }
             if (responseBody.Contains("<h2 class=\"cn_n\" itemprop=\"name\">"))
             {
-
                 int lastIndex;
                 fd.ForeignName = ExtractContent(responseBody, "<h2 class=\"cn_n\" itemprop=\"name\">", "<", 0, out lastIndex);
+            }if (responseBody.Contains("class=\"qi") && responseBody.Contains("<span class=\"price\">"))
+            {
+                int lastIndex;
+                ExtractContent(responseBody, "class=\"qi", "\"", 0, out lastIndex);
+                fd.Price = ExtractContent(responseBody, "<span class=\"price\">", "<", lastIndex-20, out lastIndex);
             }
             if (responseBody.Contains("年开业"))
             {
@@ -911,6 +914,9 @@ namespace HeadlessWebCrawler
             }
             if (responseBody.Contains(">全部(") && responseBody.Contains(">值得推荐("))
             {
+                if (string.IsNullOrEmpty(fd.ForeignNameId) || string.IsNullOrEmpty(fd.ForeignName))
+                    return;
+
                 int lastIndex;
                 var basicData = ExtractContent(responseBody, ">全部(", "\"", 0, out lastIndex);
                 if (basicData == "")
