@@ -784,7 +784,7 @@ namespace HeadlessWebCrawler
         private int StartIndex = -1;
         private int CurrentIndex;
         private bool locked = false;
-        private const int TIME_INTERVAL_IN_MILLISECONDS = 20000;
+        private const int TIME_INTERVAL_IN_MILLISECONDS = 15000;
         private static P3Engine _instance;
 
         private static Timer _timer;
@@ -886,11 +886,21 @@ namespace HeadlessWebCrawler
             {
                 int lastIndex;
                 fd.ForeignName = ExtractContent(responseBody, "<h2 class=\"cn_n\" itemprop=\"name\">", "<", 0, out lastIndex);
-            }if (responseBody.Contains("class=\"qi") && responseBody.Contains("<span class=\"price\">"))
+            }
+            if (responseBody.Contains("<span class=\\\"price\\\">"))
             {
+
                 int lastIndex;
-                ExtractContent(responseBody, "class=\"qi", "\"", 0, out lastIndex);
-                fd.Price = ExtractContent(responseBody, "<span class=\"price\">", "<", lastIndex-20, out lastIndex);
+                fd.Price = ExtractContent(responseBody, "<span class=\\\"price\\\">", "<", 0, out lastIndex);
+                if (!string.IsNullOrEmpty(fd.CommentCount))
+                {
+                    locked = true;
+                    NavigateToNext(null);
+                    locked = false;
+                    return;
+                }
+
+
             }
             if (responseBody.Contains("年开业"))
             {
@@ -916,6 +926,18 @@ namespace HeadlessWebCrawler
             {
                 if (string.IsNullOrEmpty(fd.ForeignNameId) || string.IsNullOrEmpty(fd.ForeignName))
                     return;
+
+                if(string.IsNullOrEmpty(fd.Price))
+                {
+                    if (++noPriceCount < 3)
+                    {
+                        return;
+                    }
+                    else
+                    {
+                        fd.Price = "N/A";
+                    }
+                }
 
                 int lastIndex;
                 var basicData = ExtractContent(responseBody, ">全部(", "\"", 0, out lastIndex);
@@ -949,6 +971,8 @@ namespace HeadlessWebCrawler
 
         }
 
+        private static int noPriceCount = 0;
+
         private string GetCommentCount(string responseBody, int number)
         {
             int lastIndex;
@@ -976,7 +1000,6 @@ namespace HeadlessWebCrawler
         {
             Program.Driver.Url = ForeignComments[NextIndex].ForeignKey;
             Program.Driver.Navigate();
-
         }
 
         protected override void NavigateToNext(HtmlAgilityPack.HtmlDocument document)
@@ -1007,6 +1030,8 @@ namespace HeadlessWebCrawler
                     Program.Driver.Url = foreignKey;
                     Program.Driver.Navigate();
                     Console.WriteLine("Detail...");
+                    noPriceCount = 0;
+
                 }
                 catch (Exception)
                 {
@@ -1015,6 +1040,8 @@ namespace HeadlessWebCrawler
             else
             {
                 Console.WriteLine("Skipped!");
+                noPriceCount = 0;
+
                 NavigateToNext(null);
             }
 
