@@ -66,8 +66,8 @@ namespace HeadlessWebCrawler
             //RunPhase2();
             //while (true)
             {
-                //var p3 = RunPhase3();
-                //ExportData();
+                RunPhase3();
+                ExportData();
 
                 //Console.ReadKey();
                 //try
@@ -613,7 +613,7 @@ namespace HeadlessWebCrawler
         public override void Start()
         {
             DeserializeFromFile();
-            NextIndex = 48;
+            NextIndex = -1;
             NavigateToNext(null);
         }
 
