@@ -1,102 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfForeignCommentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ForeignCommentData>
+    <ForeignId>上海湖滨假日酒店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/2298511.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>上海如家沪南路周浦店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/440670.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>上海美卡商务酒店新华店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/2313340.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>上海星之悦浦东机场晚霞酒店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/438138.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
+  <ForeignCommentData>
+    <ForeignId>莫泰168莘庄地铁南广场店</ForeignId>
+    <ForeignKey>http://hotels.ctrip.com/hotel/dianping/427953.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
+  </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海莫泰168宝山友谊路店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1578940.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>宝钢工业园区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/1578940.html</ForeignNameId>
-    <CommentCount>651</CommentCount>
-    <ForeignName>莫泰168（上海宝山友谊路店）</ForeignName>
-    <RecommendCommentCount>623</RecommendCommentCount>
-    <NeedToImproveCommentCount>28</NeedToImproveCommentCount>
-    <Price>183</Price>
-    <OpenYear>2009</OpenYear>
-    <RoomCount>120</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海莫泰168五角场店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/55320.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>江湾、五角场商业区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/55320.html</ForeignNameId>
-    <CommentCount>1263</CommentCount>
-    <ForeignName>莫泰168（上海五角场万达广场店）</ForeignName>
-    <RecommendCommentCount>1123</RecommendCommentCount>
-    <NeedToImproveCommentCount>140</NeedToImproveCommentCount>
-    <Price>N/A</Price>
-    <OpenYear>2007</OpenYear>
-    <RoomCount>109</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>格林豪泰上海世博园区中山南路快捷酒店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/430018.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>南外滩地区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/430018.html</ForeignNameId>
-    <CommentCount>1094</CommentCount>
-    <ForeignName>如家快捷酒店（上海世博外滩南浦大桥地铁站店）</ForeignName>
-    <RecommendCommentCount>940</RecommendCommentCount>
-    <NeedToImproveCommentCount>154</NeedToImproveCommentCount>
-    <Price>N/A</Price>
-    <OpenYear>2009</OpenYear>
-    <RoomCount>73</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海莫泰168火车站店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/966961.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>南外滩地区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/430018.html</ForeignNameId>
-    <CommentCount>1094</CommentCount>
-    <ForeignName>如家快捷酒店（上海世博外滩南浦大桥地铁站店）</ForeignName>
-    <RecommendCommentCount>940</RecommendCommentCount>
-    <NeedToImproveCommentCount>154</NeedToImproveCommentCount>
-    <Price>199</Price>
-    <OpenYear>2009</OpenYear>
-    <RoomCount>73</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>7天上海长寿路地铁站巴黎春天店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/2300718.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>上海火车站地区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/966961.html</ForeignNameId>
-    <CommentCount>2225</CommentCount>
-    <ForeignName>莫泰168（上海火车站店）</ForeignName>
-    <RecommendCommentCount>2134</RecommendCommentCount>
-    <NeedToImproveCommentCount>91</NeedToImproveCommentCount>
-    <Price>199</Price>
-    <OpenYear>2007</OpenYear>
-    <RoomCount>120</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海如家杨浦大桥隆昌路地铁站店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/1569721.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond02</Star>
-    <ForeignLocation>北外滩地区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/1569721.html</ForeignNameId>
-    <CommentCount>769</CommentCount>
-    <ForeignName>如家快捷酒店（上海杨浦大桥隆昌路地铁站店）</ForeignName>
-    <RecommendCommentCount>731</RecommendCommentCount>
-    <NeedToImproveCommentCount>38</NeedToImproveCommentCount>
-    <Price>198</Price>
-    <OpenYear>2012</OpenYear>
-    <RoomCount>130</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海莫泰168西藏北路店</ForeignId>
     <ForeignKey>http://hotels.ctrip.com/hotel/dianping/345033.html#ctm_ref=hod_sr_lst_dl_c_1_1</ForeignKey>
-    <Star>hotel_halfdiamond05</Star>
-    <ForeignLocation>上海火车站地区</ForeignLocation>
-    <ForeignNameId>http://hotels.ctrip.com/hotel/dianping/345033.html</ForeignNameId>
-    <CommentCount>6456</CommentCount>
-    <ForeignName>上海铭德大酒店</ForeignName>
-    <RecommendCommentCount>6163</RecommendCommentCount>
-    <NeedToImproveCommentCount>293</NeedToImproveCommentCount>
-    <Price>565</Price>
-    <OpenYear>2008</OpenYear>
-    <RoomCount>298</RoomCount>
   </ForeignCommentData>
   <ForeignCommentData>
     <ForeignId>上海汉庭澳门路店</ForeignId>

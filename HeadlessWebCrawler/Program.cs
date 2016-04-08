@@ -54,11 +54,15 @@ namespace HeadlessWebCrawler
 
         static void StaticRunner()
         {
+            //FilterAllHotelsFromList();
 
+            // start 
+            //Setup();
+            //Reset();
             //CLeanData();
 
             //RunPhase0();
-            RunPhase1();
+            //RunPhase1();
             //RunPhase2();
             //while (true)
             {
@@ -182,6 +186,30 @@ namespace HeadlessWebCrawler
             }
         }
 
+        static void RunStep4()
+        {
+            
+        }
+
+        private double ToRad(double degree)
+        {
+            return degree*Math.PI/180.0;
+        }
+
+        private double GetDistanceInKmFromCoordinates(double lon1d, double lat1d, double lon2d, double lat2d)
+        {
+            var R = 6371; // km
+            var dLat = ToRad(lat2d - lat1d);
+            var dLon = ToRad(lon2d - lon1d);
+            var lat1 = ToRad(lat1d);
+            var lat2 = ToRad(lat2d);
+
+            var a = Math.Sin(dLat / 2) * Math.Sin(dLat / 2) +
+                    Math.Sin(dLon / 2) * Math.Sin(dLon / 2) * Math.Cos(lat1) * Math.Cos(lat2);
+            var c = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
+            return R * c;
+        }
+
         static void RunStep3()
         {
             RunStep1();
@@ -245,17 +273,42 @@ namespace HeadlessWebCrawler
 
         }
 
-        static void Main(string[] args)
+        static void FilterAllHotelsFromList()
         {
-            StartRunner();
+            var targets = FindHotelsFromList();
+
+            FileStream fs = new FileStream("p0.txt", FileMode.OpenOrCreate);
+            var serializer = new XmlSerializer(typeof(List<HotelData>));
+            var data = serializer.Deserialize(fs) as List<HotelData>;
+            fs.Close();
+
+            var newData = data.Where(d => targets.Contains(d.Name)).ToList();
+            Console.WriteLine("Serializing");
+            TextWriter writer = new StreamWriter("pgps.txt");
+            serializer.Serialize(writer, newData);
+            writer.Close();
         }
 
+        static string[] FindHotelsFromList()
+        {
+            using (var filestream = new FileStream("todogps.txt", FileMode.Open))
+            using (var reader = new StreamReader(filestream))
+            {
+                return reader.ReadToEnd().Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            StaticRunner();
+        }
+        
         static void RunPhase0()
         {
             // 
             var engine = new P0Engine();
             engine.BaseUrl = @"http://www.tripadvisor.cn/Hotels-g308272-Shanghai-Hotels.html";
-            engine.MaxPage = 20;
+            engine.MaxPage = 50;
             engine.Start();
         }
 
@@ -1050,7 +1103,6 @@ namespace HeadlessWebCrawler
         }
 
     }
-
 
     abstract class Engine
     {
